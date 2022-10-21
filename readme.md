@@ -7,3 +7,4 @@
 # Exemple d'utilisation
   operations(2,5,7) 
   operations(2,5) 
+  mais l'appel operations(5) n'est pas valable
