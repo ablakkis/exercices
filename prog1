@@ -1,2 +1,4 @@
 def operations(a, b, c=7): 
   return a+b+c, b-c, a*b
+print(operations(3,5,9))
+print(operations(3,5))
