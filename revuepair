@@ -17,3 +17,10 @@ def division_fraction(fraction_1, fraction_2):
     a, b = b, a
     return multiplication_fraction((a,b))  
 
+def fraction_to_str(fraction):
+    a, b = fraction
+    return str(a) + '/' + b +' '
+def affiche_fraction(fraction):
+    a, b = fraction
+    print((fraction_to_str(fraction), a/b))
+    
