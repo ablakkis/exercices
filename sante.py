@@ -60,4 +60,4 @@ def main():
     resultat =  message_correspondant_resultat_imc2013N(imc)
     print(f"IMC: {imc:.3} -> {resultat}")
 
-    main()
+main()
