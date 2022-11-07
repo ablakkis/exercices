@@ -1,19 +1,18 @@
 # Petit programme pour créer une calculatrice 
 # d'IMC demandant à l'utilisateur sa grandeur(en mètres), 
-# son poids(en kg). Retournez ensuite la catégorie dans laquelle se trouve la personne.
-from interval import interval, inf
+# son poids(en kg). Retournez ensuite la catégorie dans laquelle se trouve la personne
 
 def calcule_imc (poids, taille) :
     if taille > 0:
         return poids / taille**2
     else :
-        return 0;
+        return 0
 
 def calcule_imc2013(poids, taille):
     if taille > 0:
             return 1.3 * poids / taille**2.5
     else :
-        return 0;
+        return 0
 
 def  message_correspondant_resultat_imc(imc) :
     if imc < 20:
@@ -42,14 +41,6 @@ def  message_correspondant_resultat_imc2013(imc) :
         return "Obesite de  classe II"
     else :
         return "Obesite de  classe III"
-
-def message_correspondant_resultat_imc2013N(imc):
-    x = round(imc,2)
-    list = (interval([0,15.49]), interval([15.5,17.49]), interval([17.5,18.49]), interval([18.5,24.9]), interval([25,29.9]), interval([30,34.9]), interval([40,+inf]))
-    messages = ("anorexie","anorexie moderee","Insuffisance pondderale legere","poids ideal", "surpoids", "Obesite de  classe I","Obesite de  classe II", "Obesite de  classe III" )
-    for i in range(len(list)):
-        if x in list[i] :
-            return messages[i]
     
 def main():
     poids = float(input("Entrer votre poids en Kg:" ))
@@ -57,7 +48,7 @@ def main():
     #imc = calcule_imc (poids, taille) 
     imc = calcule_imc2013 (poids, taille) 
     #resultat =  message_correspondant_resultat_imc2013 (imc)
-    resultat =  message_correspondant_resultat_imc2013N(imc)
+    resultat =  message_correspondant_resultat_imc2013(imc)
     print(f"IMC: {imc:.3} -> {resultat}")
 
 main()
