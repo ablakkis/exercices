@@ -21,6 +21,7 @@ def saisie_suite():
     a2 = int(input("entrer le second: "))
     a3 = int(input("entrer le 3eme: "))
     a4 = int(input("entrer le 4eme: "))
+
     return a1, a2, a3, a4
 
 def go():
