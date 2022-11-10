@@ -23,7 +23,7 @@ def saisie_suite():
     a4 = int(input("entrer le 4eme: "))
 
     return a1, a2, a3, a4
-
+# ex
 def go():
     a1, a2, a3, a4 = saisie_suite()
     a1, a2, a3, a4, ok = arranger(a1, a2, a3, a4, 3)
