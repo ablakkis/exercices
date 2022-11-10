@@ -45,10 +45,14 @@ def  message_correspondant_resultat_imc2013(imc) :
 def main():
     poids = float(input("Entrer votre poids en Kg:" ))
     taille = float(input("Entrer votre taille en metres:" ))
-    #imc = calcule_imc (poids, taille) 
-    imc = calcule_imc2013 (poids, taille) 
-    #resultat =  message_correspondant_resultat_imc2013 (imc)
-    resultat =  message_correspondant_resultat_imc2013(imc)
+    choix = int(input("Selon quelle formule souhaite tu calculer votre IMC:  1 pour ordinaire, 2 pour celle de l'annee 2013: "))
+    if (choix == 1):
+        imc = calcule_imc (poids, taille) 
+        resultat =  message_correspondant_resultat_imc2013 (imc)
+    else:
+       imc = calcule_imc2013 (poids, taille) 
+       resultat =  message_correspondant_resultat_imc2013 (imc)
     print(f"IMC: {imc:.3} -> {resultat}")
 
 main()
+#if __name__ == "__main__":
