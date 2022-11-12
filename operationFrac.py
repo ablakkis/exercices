@@ -18,7 +18,7 @@ def multiplication_fraction(fraction_1, fraction_2):
 def division_fraction(fraction_1, fraction_2):
     a, b = fraction_2
     a, b = b, a
-    return multiplication_fraction((a,b))  
+    return multiplication_fraction(fraction_1, (a,b))  
     
 def fraction_to_str(fraction):
     a, b = fraction
