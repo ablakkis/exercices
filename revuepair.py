@@ -6,6 +6,7 @@ def ppcm(a, b):
 
 
 def addition_fraction(fraction_1,fraction_2):
+    #On prend le ppcn des deux dénominateurs comme dénominateur commun
     num1, denum1 = fraction_1
     num2, denum2 = fraction_2
     denominateur = ppcm(denum1,denum2)
