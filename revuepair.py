@@ -67,7 +67,7 @@ def calculatrice():
     else:
         num1, denum1 = saisie_fraction(1)
         num2, denum2 = saisie_fraction(2)
-        result_num = -1
+        result_num =-1
         result_denum = -1
         if choix == 1:
             result_num, result_denum  = addition_fraction((num1, denum1), (num2, denum2))

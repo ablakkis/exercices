@@ -20,6 +20,27 @@ def distance(point_1,point_2):
     xpoint2, ypoint2 = point2
     resultat = (xpoint1-xpoint2)**2 + (ypoint1-ypoint2)**2
     return resultat**0.5
+
+def saisie_points_file(fichier):
+    f = open(fichier,"r")
+    data_liste = f.readlines()
+    f.close()
+    return data_Liste
+
+def calcule_donnee_point(data):
+    list_longitude = [int(data[0]), int(data[1]) int(data[2]), data[3]]
+    list_atitude = [int(data[4]), int(data[5]) int(data[6]), data[7]]
+    return list_longitude, list_atitude
+
+def tirer_Points(point:):
+  data_liste = saisie_points_file("data.txt")
+  points = []
+  for data in data_liste:
+    liste_donnee = data.split(",")
+    resultat = calcule_donnee_point(liste_donnee)
+    points.append(resultat)
+
+
 print("Entre votre point on commence par l'attitude") 
 degres = int (input())
 minutes = int(input()) 
