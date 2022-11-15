@@ -16,16 +16,11 @@ def arranger(a1, a2, a3, a4, n ): # n étant le nombre de comparaison a faire a 
         a3, a4 , ok = permut(a3, a4) 
     return a1, a2, a3, a4, ok
 
-def saisie_suite():
+def go():
     a1 = int(input("entrer le premier entier: "))
     a2 = int(input("entrer le second: "))
     a3 = int(input("entrer le 3eme: "))
     a4 = int(input("entrer le 4eme: "))
-
-    return a1, a2, a3, a4
-# ex
-def go():
-    a1, a2, a3, a4 = saisie_suite()
     a1, a2, a3, a4, ok = arranger(a1, a2, a3, a4, 3)
     if ok :
         a1, a2, a3, a4, ok = arranger(a1, a2, a3, a4, 2)
@@ -33,6 +28,5 @@ def go():
             a1, a2, a3, a4, ok = arranger(a1, a2, a3, a4,1)
     print(f"suite triée {a1}, {a2}, {a3}, {a4}")
 go()
-
 
 
