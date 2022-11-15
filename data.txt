@@ -4,3 +4,9 @@ Sao Paulo,23,32,52,S,46,38,11,W
 Beyrouth,33,53,20,N,53,29,39,E
 Pekin,39,54,20,N,116,23,29,E
 Tokyo,35,41,22,N,139,41,31,E
+Lisbonne,38,43,0,N,9,8,0,W
+Buenos Aires,34,36,29,S,58,22,13,W
+Pretoria,25,44,42,S,28,11,25,E
+Moscou,55,45,0,N,37,36,0,E
+Rimouski,48,27,1,N,68,31,48,W
+Quebec,46,48,44,N,71,12,52,W

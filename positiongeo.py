@@ -1,4 +1,4 @@
-#programme qui calcule la distance entre deux point
+#programme qui calcule la distance entre points geographique
 #cette fonction effectue des conversion de DMS vers DD
 def convertir_DMS_vers_DD(degres,minutes,secondes,cardinalite):
     resultat = (minutes*60+secondes) / 3600 + degres
@@ -41,12 +41,18 @@ def calcule_points_geo(data_liste, points:list[tuple], villes):
 
 def distances_villes_pole_nord(file:str,villes, distance_list):
     pole_nord_2017 = point_vers_DD(((86, 5, 0,"N"),(172, 6, 0, "W")))
+    
     points : list[tuple] = []
     data_list = saisie_info_file(file)
     calcule_points_geo(data_list, points, villes)
     for p in points:
         distance_list.append(distance(p,pole_nord_2017))
-    
+
+def affiche_distances_villes(distances, villes):
+    for i in range(len(distances)):
+        print(f"[{villes[i]}: {distances[i]:.3f}]", end = ";")
+    print()
+
 
 def calcule_position_proche_Pôle_nord(file:str):
     villes = []
@@ -57,10 +63,12 @@ def calcule_position_proche_Pôle_nord(file:str):
     for i in range(1,len(distances)):
         if min > distances[i]:
             v, min= villes[i], distances[i]
-    print("Liste des villes:")
-    print(villes)
-    print("Liste des distances distances avec le pole nord:")
-    print(distances)
-    print(f"La ville la plus proche du pole nord est {v}")
+    print("Liste des villes avec leurs distances:")
+    affiche_distances_villes(distances, villes) 
+    #print(villes)
+    #print("Liste des distances distances avec le pole nord:")
+    #print(distances)
+
+    print(f"La ville la plus proche du pole nord en 2017 est {v}")
 
 calcule_position_proche_Pôle_nord("data.txt")
