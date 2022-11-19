@@ -21,7 +21,7 @@ def divisible_deux_trois(n):
         return False
 
 def affiche_menu_saisie():
-    print("Enter un entier positif: ", end ="")
+    print("Enter un entier positif: ", end = "")
     nb = int(input())
     return nb
 
@@ -32,7 +32,7 @@ def divisibilite23():
         nb = affiche_menu_saisie()
         ok = divisible_deux_trois(nb)
         if(not ok):
-            input("Pour essayer une autre fois tapez sur 2 fois sur Enter")
+            input("Pour essayer une autre fois tapez sur 2 fois sur Enter ")
             input()
 
 divisibilite23()
