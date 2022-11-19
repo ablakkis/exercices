@@ -7,5 +7,9 @@ def affiche_triangle(n):
         for j in range(i):
             print("*", end = " ")
         print()
-n = int(input("Number of lines(must be odd)? "))
-affiche_triangle(n)
+
+def test():
+    n = int(input("Number of lines(must be odd)? "))
+    affiche_triangle(n)
+
+test()
