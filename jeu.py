@@ -1,6 +1,13 @@
+from os import system, name
 import random 
 
+def clear():
+    if name == 'nt':
+        _ = system('cls')
+
 def jouer():
+
+    clear()
     limite = int(input("Limit: "))
     nb_essais = int(input("Nombre d'essais: "))
     nombre_a_deviner = random.randint(1,limite)
@@ -14,7 +21,7 @@ def jouer():
         elif  choix_utilisateur < nombre_a_deviner :
             print("Votre nombre est trop petit")
             i = i + 1
-        elif  choix_utilisateur > nombre_a_deviner: 
+        else:  #choix_utilisateur > nombre_a_deviner: 
             print("Votre nombre est trop grand")
             i = i + 1
     if not trouve:
