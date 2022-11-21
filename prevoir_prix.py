@@ -9,27 +9,28 @@ def read_file(name_file: str):
     taux_inflation = {}
     for line in data:
         (annee, tinfl) = line.split(":")
-        taux_inflation[int(annee)] = float(tinfl[: len(tinfl) - 1])
+        taux_inflation[annee] = float(tinfl[: len(tinfl) - 1])
     file.close()
     return taux_inflation
 
-def calcule_prix(taux_inflation, annee_achat, prix_achat):
-    kys = taux_inflation.keys()
-    print(taux_inflation.values())
+def calcule_prix(taux_inflation, annee_achat, prix_achat, annee_previs):
+    #kys = taux_inflation.keys()
     #annee_achat = int(input("Annee d'achat du produit?(doit etre apres 1960) ")
     #prix_achat = float(input)("Prix d'achat? ")
     prix = prix_achat
-    index = annee_achat - 1960
-    for i in range(index, len(kys), 1):
-        prix = prix + prix * taux_inflation[i+1960]/100
+    #index = annee_achat - 1960
+    for a in range(annee_achat, annee_previs, 1):
+        prix = prix + prix * taux_inflation[str(a)]/100
     return prix
 def prevoir_prix(): 
     dict_inflation = read_file("pci.txt")
-    annee_achat = int(input("Annee d'achat du produit?(doit etre apres 1960) "))
-    prix_achat = float(input("Prix d'achat? "))
-    prix = calcule_prix(dict_inflation, annee_achat, prix_achat)
-    print(f"Ce produit coute {prix} en 2022")
-
+    annee_achat = int(input("Annee d'achat du produit?(doit etre apres 1960 et avant 2022) "))
+    message = "Prix d'achat en "+ str(annee_achat) + "?"
+    prix_achat = float(input(message))
+    annee_previs = int(input("En quelle annee souhaite-tu connaitre le prix? "))
+    prix = calcule_prix(dict_inflation, annee_achat, prix_achat, annee_previs)
+    print(f"Ce produit coute {prix:.3f} en {annee_previs}")
+    
 prevoir_prix()
 
  
