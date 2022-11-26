@@ -1,15 +1,14 @@
-def construite_liste_determinants_from_file(file : str):
+def construite_liste_determinants_from_file(file: str): 
     with open(file, "r", encoding = "utf8") as fin:
         contenu = fin.read()
         return contenu.strip(",")
-
 def construire_liste_mots_du_fichier(file: str):
     separateurs = ".,;?!: #/{}[]-_+=()@$\"\n\t{%\\"
     with open(file, "r", encoding = "utf8") as fin:
         contenu = fin.read()
         contenu = contenu.lower()
         liste_mots = contenu.strip(separateurs)
-    return liste_mots
+        return liste_mots
 
 def si_apostrophe_a_enlever(mot: str):
     n = mot.index("'")
@@ -61,6 +60,7 @@ def traitement():
     print(f"Il y a une tres grande chance que le texte concerne le sujet de {mot_occurence_max}")
 
 traitement()
+
 
 
 
