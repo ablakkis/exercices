@@ -30,7 +30,20 @@ def si_enleve_apostrophe(mot : str):
        
     
 
-determinants = list_determinants_marq_relation = construire_liste_determinants_from_file("determinants.txt")
-ligne= input()
-res = split_ligne(ligne, ".,;?!: #/{}[]-_+=()@$\n\t%\"\—«»",determinants)
-print(res)
+#determinants = list_determinants_marq_relation = construire_liste_determinants_from_file("determinants.txt")
+#ligne= input()
+#res = split_ligne(ligne, ".,;?!: #/{}[]-_+=()@$\n\t%\"\—«»",determinants)
+#print(res)
+
+dic = {1: 5, 2: 7, 3: 9, 4 : 11}
+keys = list(dic.keys())
+items = list(dic.values())
+
+print(keys)
+print(items)
+print(dic)
+keys[0], keys[1] = keys[1], keys[0]
+items[0], items[1] = items[1], items[0]
+print(keys)
+print(items)
+print(dic)
