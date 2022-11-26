@@ -1,4 +1,3 @@
-
 def construite_liste_determinants_from_file(file : str):
     with open(file, "r", encoding = "utf8") as fin:
         contenu = fin.read()
@@ -58,10 +57,10 @@ def traitement():
     liste_mots_texte = construire_liste_mots_du_fichier("texte.txt")
     construire_dictionnaire_compteur(dictionnaire, liste_mots_texte, list_determinants_marq_relation)
     calcul_probabilite_occurence_mots(dictionnaire)
-    mot_occurence_max = mot_probabilite_max(dictionnaire: dict)
-    print("Il y a une tres grande chance que le texte concerne le sujet de {mot_occrence_max}")
+    mot_occurence_max = mot_probabilite_max(dictionnaire)
+    print(f"Il y a une tres grande chance que le texte concerne le sujet de {mot_occurence_max}")
 
-
+traitement()
 
 
 
