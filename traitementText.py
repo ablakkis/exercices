@@ -53,7 +53,6 @@ def split_lignes(lignes: str, sep: str, determinants: list):
 def construire_dictionnaire_compteur(dictionnaire: dict, lines: list):
     separateurs = ".,;?!: #/{}[]-_+='()@$\n\t%\"\—«»"
     determinants = construire_liste_determinants_from_file("determinants.txt")
-    print(determinants)
     result = split_lignes(lines, separateurs, determinants)
     for mot in result:
         ajout_mot_dictionnaire(dictionnaire, mot.lower())
@@ -72,7 +71,7 @@ def mot_probabilite_max(dictionnaire: dict):
             max, cle = dictionnaire[k], k
     return cle 
 
-def tri_valeurs_cles(dictionnaire):
+def tri_valeurs_cles(dictionnaire : dict, nb: int):
     def deplacer_a_droite_le_plus_petit(kys: list, items: list, n: int):
         permuter = False
         for i in range(n):
@@ -93,22 +92,22 @@ def tri_valeurs_cles(dictionnaire):
     kys = list(dictionnaire.keys())
     items = list(dictionnaire.values())
     trier_suite_decroissant(kys, items)
-    result = {}
-    for i in range(15):
-        result[kys[i]]= items[i]
-    print(result)
+    sous_dic= {}
+    for i in range(nb):
+        sous_dic[kys[i]]= items[i]
+    return sous_dic
+    #print(result)
 
 def traitement():
     dictionnaire : dict
     dictionnaire = {}
     liste_lignes = construire_lignes_du_fichier("texte1.txt")
     construire_dictionnaire_compteur(dictionnaire, liste_lignes)
-    tri_valeurs_cles(dictionnaire)
-    #print(dictionnaire)
+    sous_dic = tri_valeurs_cles(dictionnaire, 15)
+    print(sous_dic)
     #calcul_probabilite_occurence_mots(dictionnaire)
-    tri_valeurs_cles(dictionnaire)
-    #mot_occurence_max = mot_probabilite_max(dictionnaire)
-    #print(f"Il y a une tres grande chance que le texte concerne le sujet de {}")
+
+
     
 traitement()
 
