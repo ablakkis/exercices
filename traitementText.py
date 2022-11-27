@@ -15,12 +15,12 @@ def split_ligne(ligne: str, sep: str, determinants: list):
 
     def si_enleve_apostrophe(mot : str):
         n = mot.find("'")
-        if(n == 1):
-            if mot not in determinants:
-                if len(mot) > 2:
-                    mot = mot[2:]
-                else:
-                    mot = "" 
+        m = mot.find("’")
+        if n == 1 or m == 1:
+            if len(mot) > 2:
+                mot = mot[2:]
+            else:
+                mot = "" 
         return mot
 
     res = []
@@ -32,18 +32,17 @@ def split_ligne(ligne: str, sep: str, determinants: list):
             if word not in determinants:
                 word = si_enleve_apostrophe(word)
                 if len(word) > 1:
+                    word = word.lower()
                     if word not in determinants:
                         res.append(word)
             word = ""
     return res
-
 
 def ajout_mot_dictionnaire(dictionnaire: dict, mot: str):
     if mot in dictionnaire:
         dictionnaire[mot] += 1
     else:
         dictionnaire[mot] = 1 
-
     
 def split_lignes(lignes: str, sep: str, determinants: list):
     result = []
@@ -57,7 +56,7 @@ def construire_dictionnaire_compteur(dictionnaire: dict, lines: list):
     print(determinants)
     result = split_lignes(lines, separateurs, determinants)
     for mot in result:
-        ajout_mot_dictionnaire(dictionnaire, mot)
+        ajout_mot_dictionnaire(dictionnaire, mot.lower())
 
 def calcul_probabilite_occurence_mots(dictionnaire: dict):
     liste_cles = list(dictionnaire.keys())
@@ -73,16 +72,44 @@ def mot_probabilite_max(dictionnaire: dict):
             max, cle = dictionnaire[k], k
     return cle 
 
+def tri_valeurs_cles(dictionnaire):
+    def deplacer_a_droite_le_plus_petit(kys: list, items: list, n: int):
+        permuter = False
+        for i in range(n):
+            if(items[i] < items [i+1]):
+                permuter = True
+                items[i] , items[i+1] = items[i+1] , items[i]
+                kys[i] , kys[i+1] = kys[i+1] , kys[i]
+        return permuter
+
+    def trier_suite_decroissant(kys: list, items: list):
+        continuer = True
+        n = len(kys) - 1
+        i = 0
+        while i < n and continuer:
+            continuer = deplacer_a_droite_le_plus_petit(kys, items, n - i)
+            i = i+1
+    
+    kys = list(dictionnaire.keys())
+    items = list(dictionnaire.values())
+    trier_suite_decroissant(kys, items)
+    result = {}
+    for i in range(15):
+        result[kys[i]]= items[i]
+    print(result)
+
 def traitement():
     dictionnaire : dict
     dictionnaire = {}
-    liste_lignes = construire_lignes_du_fichier("texte.txt")
+    liste_lignes = construire_lignes_du_fichier("texte1.txt")
     construire_dictionnaire_compteur(dictionnaire, liste_lignes)
-    print(dictionnaire)
-    calcul_probabilite_occurence_mots(dictionnaire)
-    mot_occurence_max = mot_probabilite_max(dictionnaire)
-    print(f"Il y a une tres grande chance que le texte concerne le sujet de {mot_occurence_max}")
-
+    tri_valeurs_cles(dictionnaire)
+    #print(dictionnaire)
+    #calcul_probabilite_occurence_mots(dictionnaire)
+    tri_valeurs_cles(dictionnaire)
+    #mot_occurence_max = mot_probabilite_max(dictionnaire)
+    #print(f"Il y a une tres grande chance que le texte concerne le sujet de {}")
+    
 traitement()
 
 

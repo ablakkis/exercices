@@ -47,3 +47,4 @@ items[0], items[1] = items[1], items[0]
 print(keys)
 print(items)
 print(dic)
+print("AbCdEfGh".lower())
