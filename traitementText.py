@@ -1,3 +1,11 @@
+import os
+
+#Permet d'effacer ce qui est afficher à la console.
+#Taken from https://stackoverflow.com/questions/2084508/clear-terminal-in-python
+#By user: poke
+
+def cls():
+    os.system('cls' if os.name=='nt' else 'clear')
 
 def construire_liste_determinants_from_file(file: str): 
    with open(file, "r", encoding = "utf8") as fin:
@@ -96,19 +104,24 @@ def tri_valeurs_cles(dictionnaire : dict, nb: int):
     for i in range(nb):
         sous_dic[kys[i]]= items[i]
     return sous_dic
-    #print(result)
+    #
+def affiche_dictionnaire(dictionnaire: dict):
+    kys = list(dictionnaire.keys())
+    vals = list(dictionnaire.values())
+    for i in range(len(kys)):
+        print(f"{kys[i]}: {vals[i]:.4f}", end =" ; ")
+
 
 def traitement():
+    cls()
     dictionnaire : dict
     dictionnaire = {}
-    liste_lignes = construire_lignes_du_fichier("texte.txt")
+    liste_lignes = construire_lignes_du_fichier("texte1.txt")
     construire_dictionnaire_compteur(dictionnaire, liste_lignes)
+    calcul_probabilite_occurence_mots(dictionnaire)
     sous_dic = tri_valeurs_cles(dictionnaire, 15)
-    print(sous_dic)
-    #calcul_probabilite_occurence_mots(dictionnaire)
-
-
-    
+    affiche_dictionnaire(sous_dic)
+        
 traitement()
 
 
