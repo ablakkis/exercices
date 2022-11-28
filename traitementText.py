@@ -101,7 +101,7 @@ def tri_valeurs_cles(dictionnaire : dict, nb: int):
 def traitement():
     dictionnaire : dict
     dictionnaire = {}
-    liste_lignes = construire_lignes_du_fichier("texte1.txt")
+    liste_lignes = construire_lignes_du_fichier("texte.txt")
     construire_dictionnaire_compteur(dictionnaire, liste_lignes)
     sous_dic = tri_valeurs_cles(dictionnaire, 15)
     print(sous_dic)
