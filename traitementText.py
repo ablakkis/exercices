@@ -116,7 +116,8 @@ def traitement():
     cls()
     dictionnaire : dict
     dictionnaire = {}
-    liste_lignes = construire_lignes_du_fichier("texte1.txt")
+    fichier = input("Entrer le nom du fichier a lire: ")
+    liste_lignes = construire_lignes_du_fichier(fichier)
     construire_dictionnaire_compteur(dictionnaire, liste_lignes)
     calcul_probabilite_occurence_mots(dictionnaire)
     n = int(input("Entrer combien de termes on doit afficher:" ))
@@ -124,6 +125,7 @@ def traitement():
     affiche_dictionnaire(sous_dic)
         
 traitement()
+
 
 
 
