@@ -119,7 +119,8 @@ def traitement():
     liste_lignes = construire_lignes_du_fichier("texte1.txt")
     construire_dictionnaire_compteur(dictionnaire, liste_lignes)
     calcul_probabilite_occurence_mots(dictionnaire)
-    sous_dic = tri_valeurs_cles(dictionnaire, 15)
+    n = int(input("Entrer combien de termes on doit afficher:" ))
+    sous_dic = tri_valeurs_cles(dictionnaire, n)
     affiche_dictionnaire(sous_dic)
         
 traitement()
