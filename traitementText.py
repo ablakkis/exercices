@@ -1,4 +1,23 @@
 import os
+import requests
+from bs4 import BeautifulSoup
+
+def creer_textfile_site(site: str, file: str):
+    html_text = requests.get(site).text
+    soup = BeautifulSoup(html_text, 'html.parser')
+    texte = soup.get_text()
+    with open(file, "w", encoding = "UTF-8") as f:
+        f.write(texte)
+
+def construire_fichiers_texte_from_html(files: list):
+    for idx, file in enumerate(files):
+        with open(file, "r", encoding = "UTF-8") as f:
+            html_text  = f.read()
+            soup = BeautifulSoup(html_text, 'html.parser')
+            text = soup.getText()
+        with open("fileTxt"+str(idx)+".txt", "w", encoding = "UTF-8") as f:
+            f.write(text)
+
 
 #Permet d'effacer ce qui est afficher à la console.
 #Taken from https://stackoverflow.com/questions/2084508/clear-terminal-in-python
@@ -111,13 +130,22 @@ def affiche_dictionnaire(dictionnaire: dict):
     for i in range(len(kys)):
         print(f"{kys[i]}: {vals[i]:.4f}", end =" ; ")
 
+def lire_ensemble_fichiers_texte(n: int):
+    liste_lignes = []
+    for i in range(n):
+        fichier = "fileTxt"+str(i)+".txt"
+        liste_lignes += construire_lignes_du_fichier(fichier)
+    return liste_lignes
+
 
 def traitement():
     cls()
     dictionnaire : dict
     dictionnaire = {}
-    fichier = input("Entrer le nom du fichier a lire: ")
-    liste_lignes = construire_lignes_du_fichier(fichier)
+    liste_lignes: list
+    html_files = ["file"+ str(i) +".txt" for i in range(8)]
+    construire_fichiers_texte_from_html(html_files)
+    liste_lignes = lire_ensemble_fichiers_texte(8)
     construire_dictionnaire_compteur(dictionnaire, liste_lignes)
     calcul_probabilite_occurence_mots(dictionnaire)
     n = int(input("Entrer combien de termes on doit afficher:" ))
@@ -125,7 +153,4 @@ def traitement():
     affiche_dictionnaire(sous_dic)
         
 traitement()
-
-
-
 
