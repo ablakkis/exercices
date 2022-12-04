@@ -6,16 +6,15 @@ def creer_textfile_site(site: str, file: str):
     html_text = requests.get(site).text
     soup = BeautifulSoup(html_text, 'html.parser')
     texte = soup.get_text()
-    with open(file, "w", encoding = "UTF-8") as f:
+    with open(file , "w", encoding = "UTF-8") as f:
         f.write(texte)
+    
 
 def create_textefiles_sites(sites_file):
     with open(sites_file, "r", encoding = "UTF-8") as f:
         lines = f.readlines()
         for rdx, lien in enumerate(lines):
             creer_textfile_site(lien[:-1], "fileTx" + str(rdx) + ".txt")
-
-
 
 def construire_fichiers_texte_from_html(files: str):
     for idx, file in enumerate(files):
@@ -86,7 +85,7 @@ def split_lignes(lignes: str, sep: str, determinants: list):
     return result
 
 def construire_dictionnaire_compteur(dictionnaire: dict, lines: list):
-    separateurs = ".,;?!: #/{}[]_+='()@$\n\t%\"\—«»"
+    separateurs = ".,;?!ǀ: #/{}[]_+='()@$\n\t%\"\—«»"
     determinants = construire_liste_determinants_from_file("determinants.txt")
     result = split_lignes(lines, separateurs, determinants)
     for mot in result:
@@ -151,8 +150,7 @@ def traitement():
     dictionnaire : dict
     dictionnaire = {}
     liste_lignes: list
-    #html_files = ["file"+ str(i) +".txt" for i in range(8)]
-    #create_textefiles_sites("sites.txt")
+    create_textefiles_sites("sites.txt")
     liste_lignes = lire_ensemble_fichiers_texte(5)
     construire_dictionnaire_compteur(dictionnaire, liste_lignes)
     calcul_probabilite_occurence_mots(dictionnaire)
@@ -161,5 +159,10 @@ def traitement():
     affiche_dictionnaire(sous_dic)
         
 #traitement()
-create_textefiles_sites("sites.txt")
+html_text = requests.get("https://group.bnpparibas/actualite/covid-19-impact-economie-mondiale").text
+soup = BeautifulSoup(html_text, 'html.parser')
+texte = soup.get_text()
+with open("fileTx1" , "w", encoding = "UTF-8") as f:
+    f.write(texte)
+
 
