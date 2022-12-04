@@ -9,13 +9,21 @@ def creer_textfile_site(site: str, file: str):
     with open(file, "w", encoding = "UTF-8") as f:
         f.write(texte)
 
-def construire_fichiers_texte_from_html(files: list):
+def create_textefiles_sites(sites_file):
+    with open(sites_file, "r", encoding = "UTF-8") as f:
+        lines = f.readlines()
+        for rdx, lien in enumerate(lines):
+            creer_textfile_site(lien[:-1], "fileTx" + str(rdx) + ".txt")
+
+
+
+def construire_fichiers_texte_from_html(files: str):
     for idx, file in enumerate(files):
         with open(file, "r", encoding = "UTF-8") as f:
             html_text  = f.read()
             soup = BeautifulSoup(html_text, 'html.parser')
             text = soup.getText()
-        with open("fileTxt"+str(idx)+".txt", "w", encoding = "UTF-8") as f:
+        with open("fileTx"+str(idx)+".txt", "w", encoding = "UTF-8") as f:
             f.write(text)
 
 
@@ -78,7 +86,7 @@ def split_lignes(lignes: str, sep: str, determinants: list):
     return result
 
 def construire_dictionnaire_compteur(dictionnaire: dict, lines: list):
-    separateurs = ".,;?!: #/{}[]-_+='()@$\n\t%\"\—«»"
+    separateurs = ".,;?!: #/{}[]_+='()@$\n\t%\"\—«»"
     determinants = construire_liste_determinants_from_file("determinants.txt")
     result = split_lignes(lines, separateurs, determinants)
     for mot in result:
@@ -143,14 +151,15 @@ def traitement():
     dictionnaire : dict
     dictionnaire = {}
     liste_lignes: list
-    html_files = ["file"+ str(i) +".txt" for i in range(8)]
-    construire_fichiers_texte_from_html(html_files)
-    liste_lignes = lire_ensemble_fichiers_texte(8)
+    #html_files = ["file"+ str(i) +".txt" for i in range(8)]
+    #create_textefiles_sites("sites.txt")
+    liste_lignes = lire_ensemble_fichiers_texte(5)
     construire_dictionnaire_compteur(dictionnaire, liste_lignes)
     calcul_probabilite_occurence_mots(dictionnaire)
     n = int(input("Entrer combien de termes on doit afficher:" ))
     sous_dic = tri_valeurs_cles(dictionnaire, n)
     affiche_dictionnaire(sous_dic)
         
-traitement()
+#traitement()
+create_textefiles_sites("sites.txt")
 
