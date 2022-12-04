@@ -159,7 +159,10 @@ def traitement():
     affiche_dictionnaire(sous_dic)
         
 #traitement()
-html_text = requests.get("https://www.canada.ca/fr/developpement-economique-regions-quebec/nouvelles/2020/05/covid-19--developpement-economique-canada-pour-les-regions-du-quebec-lance-le-fonds-daide-et-de-relance-regionale-pour-soutenir-les-economies-locales.html").text
+site = "https://www.canada.ca/fr/developpement-economique-regions-quebec/nouvelles/2020/05/covid-19--developpement-economique-canada-pour-les-regions-du-quebec-lance-le-fonds-daide-et-de-relance-regionale-pour-soutenir-les-economies-locales.html"
+html_text = requests.get(site).text
 soup = BeautifulSoup(html_text, 'html.parser')
 texte = soup.get_text()
 print(texte)
+with open("fileTx6.txt", "w", encoding = "UTF-8") as f:
+    f.write(texte)
