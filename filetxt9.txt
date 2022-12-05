@@ -1,0 +1,3631 @@
+﻿
+
+
+
+
+
+
+
+
+
+
+Répercussions économiques de la pandémie de COVID-19 dans les provinces et les territoires
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Passer au contenu principal
+
+
+Passer à « À propos de ce site »
+
+
+
+
+
+Sélection de la langue
+
+
+
+English
+
+
+
+
+
+
+ / Statistics Canada
+
+
+Recherche et menus
+
+Recherche et menus
+
+
+
+
+Recherche
+
+
+Recherchez le site Web
+
+
+
+
+
+
+Recherche
+
+
+
+
+
+
+Menus des sujets
+
+
+
+Sujets
+Données
+Analyses
+Références
+Géographie
+Recensement
+Enquêtes et programmes statistiques
+À propos de StatCan
+Canada.ca
+
+
+
+
+
+
+
+
+
+Accueil
+11-631-x
+
+
+
+
+
+
+
+
+
+
+
+Une série de présentations de Statistique Canada sur l’économie, l’environnement et la société
+			Répercussions économiques de la pandémie de COVID-19 dans les provinces et les territoires
+	  
+
+
+
+
+
+
+
+Date de diffusion : le 23 juin 2021
+
+
+
+
+
+Article connexe
+
+Renseignements supplémentaires
+
+Version PDF
+
+
+
+Passer au texte
+Sur cette page
+
+La baisse de l’activité économique pendant la pandémie de COVID-19 met en évidence les différences sous-jacentes dans les économies régionales
+L’activité économique a été plus vigoureuse pendant les deuxième et troisième vagues, les entreprises et les ménages ayant continué de s’adapter aux mesures de confinement
+Colombie-Britannique : la plus forte reprise de l’emploi dans l’Ouest canadien
+Alberta : la province la plus durement touchée par la pandémie de COVID-19 en raison des répercussions sur le secteur de l’énergie
+Saskatchewan : deuxième baisse la plus marquée de l’activité économique depuis le début de la pandémie, en raison des pressions exercées sur les ressources et l’énergie
+L’emploi au Manitoba s’est redressé rapidement par suite de l’assouplissement des restrictions de santé publique mises en place durant la deuxième vague
+Ontario : les mesures de confinement prolongées ont freiné la reprise économique dans les secteurs durement touchés
+Québec : le deuxième confinement a une incidence sur l’emploi chez les jeunes
+Nouveau-Brunswick : la reprise du secteur de la fabrication domine dans les provinces de l’Atlantique
+Nouvelle-Écosse : la plus forte reprise de l’emploi au pays
+Île-du-Prince-Édouard : la plus forte augmentation en pourcentage du prix des logements neufs depuis le début de la pandémie
+Terre-Neuve-et-Labrador : l’emploi chez les jeunes se redresse, tandis que la reprise dans la fabrication et au sein des entreprises actives accuse un retard
+Les territoires : les répercussions de la baisse de l’extraction des ressources varient en raison de la résilience des entreprises
+
+
+Début du texte
+
+
+La baisse de l’activité économique pendant la  pandémie de COVID-19 met en évidence les différences sous-jacentes dans les  économies régionales
+Bien que les activités  dans les secteurs des services d’hébergement et de restauration, du commerce de  détail et du transport aient diminué dans toutes les régions du pays, des  facteurs propres à chaque province, y compris les activités de construction  liées aux projets d’exploitation des ressources, ont joué un rôle clé dans la  baisse importante de la production en 2020.
+
+
+Tableau de données du graphique 1
+﻿
+
+
+Tableau de données du graphique 1
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 1 Percent(figurant comme en-tête de colonne).
+
+
+
+Percent
+
+
+Terre-Neuve-et-Labrador
+2,1
+
+
+Île-du-Prince-Édouard
+16,7
+
+
+Nouvelle-Écosse
+8,8
+
+
+Nouveau-Brunswick
+5,8
+
+
+Québec
+11,7
+
+
+Ontario
+13,3
+
+
+Manitoba
+8,6
+
+
+Saskatchewan
+1,5
+
+
+Alberta
+-1,1
+
+
+Colombie-Britannique
+15,1
+
+
+Yukon
+5,6
+
+
+Territoires du Nord-Ouest
+-4,3
+
+
+Nunavut
+32,7
+
+
+Canada
+9,7
+
+
+
+Source : Statistique Canada, tableaux 36-10-0402-01 et 36-10-0434-01.
+     
+
+
+
+
+
+
+Tableau de données du graphique 2
+﻿
+
+
+Tableau de données du graphique 2
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 2 2019 et 2020, calculées selon pourcentage unités de mesure (figurant comme en-tête de colonne).
+
+
+
+2019
+2020
+
+
+pourcentage
+
+
+Terre-Neuve-et-Labrador
+4,0
+-5,3
+
+
+Île-du-Prince-Édouard
+5,1
+-3,0
+
+
+Nouvelle-Écosse
+2,5
+-3,2
+
+
+Nouveau-Brunswick
+1,1
+-3,7
+
+
+Québec
+2,7
+-5,3
+
+
+Ontario
+2,1
+-5,0
+
+
+Manitoba
+0,5
+-4,8
+
+
+Saskatchewan
+-0,9
+-5,2
+
+
+Alberta
+0,0
+-8,2
+
+
+Colombie-Britannique
+2,5
+-3,8
+
+
+Yukon
+0,7
+1,1
+
+
+Territoires du Nord-Ouest
+-8,1
+-10,4
+
+
+Nunavut
+6,5
+3,5
+
+
+Canada
+1,8
+-5,3
+
+
+
+Source : Statistique Canada, tableaux 36-10-0402-01 et 36-10-0434-01.
+     
+
+
+
+
+Canada atlantique
+
+Dans  les provinces maritimes, l’augmentation des activités dans les secteurs de  l’immobilier et des services financiers a contribué à atténuer les fortes  baisses dans les secteurs liés au tourisme. Les activités dans le secteur de la  construction ont également augmenté à l’Île-du-Prince-Édouard et en  Nouvelle-Écosse.  
+Environ  la moitié de la baisse de la production de Terre-Neuve-et-Labrador est  attribuable à la diminution des travaux de génie civil liés aux grands projets  d’exploitation des ressources.
+
+Centre du Canada
+
+La diminution de l’activité manufacturière en  Ontario et au Québec a été à l’origine de près du quart de la baisse de la  production, tandis que l’augmentation de l’activité financière a aidé à  atténuer les pertes dans ces deux provinces.  
+
+Ouest canadien
+
+Les réductions au chapitre des travaux de génie  civil liés aux projets d’exploitation des ressources ont accentué les baisses  observées en Alberta, en Saskatchewan et au Manitoba. La diminution de  l’extraction de pétrole et de gaz en Alberta et en Saskatchewan a également  contribué à des baisses considérables de l’activité économique.
+La croissance de travaux de génie civil liés aux  grands projets d’exploitation des ressources en Colombie-Britannique a permis  de compenser la réduction de la production du secteur de la fabrication. Les  hausses notables de l’activité immobilière ont également aidé à atténuer les  baisses dans les secteurs où il y a beaucoup de contacts.
+
+Nord du Canada
+
+Le Yukon et le Nunavut ont été les seuls territoires  où le produit intérieur brut réel (PIB réel) a augmenté en 2020,  principalement en raison d’une forte hausse de l’activité minière. La  production des Territoires du Nord-Ouest a diminué de 10 % à cause de la  baisse des activités d’extraction minière, pétrolière et gazière.
+
+L’activité  économique a été plus vigoureuse pendant les deuxième et troisième vagues, les  entreprises et les ménages ayant continué de s’adapter aux mesures de  confinement
+
+Les  nouvelles estimations mensuelles de l’activité économique font état de baisses  marquées en Alberta et en Saskatchewan depuis le début de la pandémie ainsi que  de baisses considérables en Ontario, au Nouveau-Brunswick et au Québec. Cela  est attribuable à la forte baisse de l’activité économique pendant les  premières périodes de confinement.
+Bien  que les niveaux d’activité aient été généralement stables au cours des deuxième  et troisième vagues, les données mensuelles indiquent un ralentissement du  rythme de la reprise dans de nombreuses régions du pays, car les mesures de  confinement ont été resserrées à la fin de 2020 et au début de 2021.
+
+
+
+Tableau de données du graphique 3
+﻿
+
+
+Tableau de données du graphique 3
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 3 Indice fondé sur l’ACP et Indice fondé sur la méthode LASSO, calculées selon pourcentage unités de mesure (figurant comme en-tête de colonne).
+
+
+
+Indice fondé sur l’ACP
+Indice fondé sur la méthode LASSO
+
+
+pourcentage
+
+
+Terre-Neuve-et-Labrador
+Note .: indisponible pour toute période de référence
+3,0
+
+
+Île-du-Prince-Édouard
+-3,5
+1,7
+
+
+Nouvelle-Écosse
+1,2
+1,6
+
+
+Nouveau-Brunswick
+-6,0
+0,7
+
+
+Québec
+-5,3
+0,5
+
+
+Ontario
+-9,1
+-0,1
+
+
+Manitoba
+4,2
+2,5
+
+
+Saskatchewan
+-17,5
+0,2
+
+
+Alberta
+-25,0
+-13,0
+
+
+Colombie-Britannique
+-0,2
+1,0
+
+
+Yukon
+Note .: indisponible pour toute période de référence
+3,4
+
+
+Territoires du Nord-Ouest
+-4,8
+Note .: indisponible pour toute période de référence
+
+
+Nunavut
+Note .: indisponible pour toute période de référence
+4,1
+
+
+
+     . indisponible pour toute période de référence
+Notes : ACP signifie « analyse en composantes principales ». LASSO signifie « moindre contraction absolue et opérateur de sélection ».
+Source : Statistique Canada, tableau 36-10-0633-01.
+     
+
+
+
+
+Colombie-Britannique :  la  plus forte reprise de l’emploi au Canada
+Avant  la COVID-19 :
+
+Le PIB réel a progressé de 2,5 %  en 2019, soutenu par des hausses notables de l’activité dans les secteurs  de la construction et de l’immobilier.
+On a enregistré une hausse  de 12 200 emplois dans les secteurs de la finance et de  l’enseignement en 2019 et des pertes de plus de 10 000 emplois dans  le secteur de la fabrication.
+
+Après  la COVID-19 :
+
+Le PIB réel a diminué de 3,8 %  en 2020, ce qui représente la plus faible baisse à l’extérieur de la bulle  de l’Atlantique.
+La Colombie-Britannique a connu  la plus forte reprise de l’emploi du pays.
+Le nombre d’emplois dans le secteur des services  professionnels, scientifiques et techniques a augmenté de 36 500 depuis  février 2020.
+En février 2021, la Colombie-Britannique était  la seule province où le nombre d’entreprises exploitées dans le secteur des  entreprises avait dépassé les niveaux observés avant la COVID-19. 
+
+
+
+Tableau de données du graphique 4
+﻿
+
+
+Tableau de données du graphique 4
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 4 Niveau d’emploi indexé pendant la crise économique liée à la COVID-19 (avril 2020) et Niveau d’emploi indexé pendant le mois de référence actuel (mai 2021), calculées selon indice (février 2020 = 100)
+
+    unités de mesure (figurant comme en-tête de colonne).
+
+
+
+Niveau d’emploi indexé pendant la crise économique liée à la COVID-19 (avril 2020)
+Niveau d’emploi indexé pendant le mois de référence actuel (mai 2021)
+
+
+indice (février 2020 = 100)
+
+
+
+
+Jeunes : hommes
+69.1
+103.7
+
+
+Jeunes : femmes
+58.2
+85.4
+
+
+Principal groupe d’âge actif : hommes
+88.2
+101.4
+
+
+Principal groupe d’âge actif : femmes
+85.8
+100.5
+
+
+Personnes plus âgées : hommes
+88.4
+95.4
+
+
+Personnes plus âgées : femmes
+90.4
+97.6
+
+
+
+Notes : Jeunes : 15 à 24 ans; principal groupe d’âge actif : 25 à 54 ans; plus âgés : 55 ans et plus.
+Source : Statistique Canada, tableau 14-10-0287-01.
+     
+
+
+
+
+
+
+Tableau de données du graphique 5
+﻿
+
+
+Tableau de données du graphique 5
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 5 Commerce de détail, Fabrication  et Commerce de gros, calculées selon Février 2020 = 100 unités de mesure (figurant comme en-tête de colonne).
+
+
+
+Commerce de détail
+Fabrication
+Commerce de gros
+
+
+Février 2020 = 100
+
+
+Février
+100,0000
+100,0000
+100,0000
+
+
+Mars
+94,1318
+99,0246
+95,3524
+
+
+Avril
+76,6762
+85,2151
+79,8161
+
+
+Mai
+88,0033
+89,7940
+85,1674
+
+
+Juin
+100,2905
+94,8783
+91,8977
+
+
+Juillet
+102,4387
+99,1258
+98,6095
+
+
+Août
+102,9570
+104,0095
+105,0231
+
+
+Septembre
+105,9718
+107,1838
+107,5717
+
+
+Octobre
+108,3845
+109,7936
+110,0727
+
+
+Novembre
+108,8904
+104,5243
+111,4599
+
+
+Décembre
+107,0707
+111,1516
+108,5270
+
+
+Janvier
+111,7387
+118,4276
+117,6154
+
+
+Février
+112,3201
+120,1385
+116,0457
+
+
+Mars
+111,1190
+125,7395
+119,5387
+
+
+
+Note : Le niveau observé avant la COVID-19 a été défini comme étant février 2020.
+Source : Statistique Canada, tableaux 20-10-0008-01, 20-10-0074-01 and 16-10-0048-01.
+     
+
+
+
+
+
+
+Tableau de données du graphique 6
+﻿
+
+
+Tableau de données du graphique 6
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 6 Variation en pourcentage(figurant comme en-tête de colonne).
+
+
+
+Variation en pourcentage
+
+
+C.-B.
+0,5
+
+
+Î.-P.-É.
+-0,1
+
+
+N.-É.
+-0,9
+
+
+Sask.
+-1,0
+
+
+Qc
+-1,1
+
+
+Man.
+-1,1
+
+
+N.-B.
+-1,7
+
+
+Canada
+-2,0
+
+
+Alb.
+-2,1
+
+
+T.-N.-L.
+-4,4
+
+
+Ont.
+-4,5
+
+
+
+Source : Statistique Canada, Tableau 33-10-0270-01.
+     
+
+
+
+
+Alberta :  la province la plus durement touchée par la pandémie de COVID-19 en  raison des répercussions sur le secteur de l’énergie
+Avant  la COVID-19 :
+
+La croissance économique a stagné en 2019.
+La baisse des activités dans la construction a été  contrebalancée par les activités dans l’immobilier, les soins de santé et la  finance.
+L’emploi total a peu varié en 2019, alors que  le taux de chômage de la province est resté le plus élevé de l’Ouest canadien.
+
+Après  la COVID-19 :
+
+L’activité économique en Alberta a été la plus  durement touchée en raison des répercussions de la pandémie de COVID-19  sur les prix du pétrole. Le PIB réel de la province a diminué  de 8,2 % en 2020.
+Les intentions d’investissement privé pour 2021  demeurent près de 20 % en deçà des niveaux observés en 2019 avant  la pandémie de COVID-19.
+En février 2021, le nombre d’entreprises  actives en Alberta était inférieur de 2,1 % aux niveaux observés avant  la pandémie de COVID-19, ce qui représente la plus forte baisse nette  enregistrée dans l’Ouest canadien.
+
+
+
+Tableau de données du graphique 7
+﻿
+
+
+Tableau de données du graphique 7
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 7 Niveau d’emploi indexé pendant la crise économique liée à la COVID-19 (avril 2020) et Niveau d’emploi indexé pendant le mois de référence actuel (mai 2021), calculées selon indice (février 2020 = 100) unités de mesure (figurant comme en-tête de colonne).
+
+
+
+Niveau d’emploi indexé pendant la crise économique liée à la COVID-19 (avril 2020)
+Niveau d’emploi indexé pendant le mois de référence actuel (mai 2021)
+
+
+indice (février 2020 = 100)
+
+
+Jeunes : hommes
+69,6
+95,6
+
+
+Jeunes : femmes
+57,3
+92,7
+
+
+Principal groupe d’âge actif : hommes
+88,8
+100,1
+
+
+Principal groupe d’âge actif : femmes
+86,6
+95,1
+
+
+Personnes plus âgées : hommes
+92,5
+96,3
+
+
+Personnes plus âgées : femmes
+87,3
+106,8
+
+
+
+Notes : Jeunes : 15 à 24 ans; principal groupe d’âge actif : 25 à 54 ans; plus âgés : 55 ans et plus.
+Source : Statistique Canada, tableau 14-10-0287-01.
+     
+
+
+
+
+
+
+Tableau de données du graphique 8
+﻿
+
+
+Tableau de données du graphique 8
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 8 Commerce de détail, Fabrication  et Commerce de gros, calculées selon Février 2020 = 100 unités de mesure (figurant comme en-tête de colonne).
+
+
+
+Commerce de détail
+Fabrication
+Commerce de gros
+
+
+Février 2020 = 100
+
+
+Février
+100,0
+100,0
+100,0
+
+
+Mars
+87,5
+91,3
+96,0
+
+
+Avril
+71,6
+74,9
+95,5
+
+
+Mai
+87,5
+76,3
+89,2
+
+
+Juin
+100,9
+81,5
+95,9
+
+
+Juillet
+101,7
+83,5
+99,0
+
+
+Août
+96,1
+83,0
+96,5
+
+
+Septembre
+105,6
+85,9
+96,7
+
+
+Octobre
+106,5
+87,4
+97,9
+
+
+Novembre
+106,9
+89,7
+100,5
+
+
+Décembre
+102,6
+93,3
+99,7
+
+
+Janvier
+108,9
+97,2
+104,1
+
+
+Février
+110,9
+100,3
+101,3
+
+
+Mars
+110,4
+102,7
+107,4
+
+
+
+Note : Le niveau observé avant la COVID-19 a été défini comme étant février 2020.
+Source : Statistique Canada, tableaux 20-10-0008-01, 20-10-0074-01 and 16-10-0048-01.
+     
+
+
+
+
+
+
+Tableau de données du graphique 9
+﻿
+
+
+Tableau de données du graphique 9
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 9 Alberta, calculées selon dollars unités de mesure (figurant comme en-tête de colonne).
+
+
+
+Alberta
+
+
+dollars
+
+
+Février
+1 627 712 000
+
+
+Mars
+1 103 407 000
+
+
+Avril
+620 579 000
+
+
+Mai
+726 393 000
+
+
+Juin
+883 958 000
+
+
+Juillet
+1 025 166 000
+
+
+Août
+1 034 516 000
+
+
+Septembre
+1 068 451 000
+
+
+Octobre
+1 027 727 000
+
+
+Novembre
+1 106 484 000
+
+
+Décembre
+1 224 629 000
+
+
+Janvier
+1 242 525 000
+
+
+Février
+1 338 013 000
+
+
+Mars
+1 338 013 001
+
+
+
+Source : Statistique Canada, tableau 16-10-0048-01.
+     
+
+
+
+
+Saskatchewan :  deuxième baisse la plus marquée de l’activité économique depuis le début  de la pandémie, en raison des pressions exercées sur les ressources et  l’énergie
+Avant  la COVID-19 :
+
+L’activité économique s’est contractée  de 0,9 % en 2019.
+La baisse de la production est attribuable à la  diminution notable des activités observée dans les secteurs de l’extraction de  minerais non métalliques, de la fabrication et de la construction  résidentielle.
+L’emploi global est demeuré stable en 2019, les  hausses enregistrées dans les industries de services ayant contrebalancé les  baisses de l’emploi observées dans le secteur des biens.
+
+Après  la COVID-19 :
+
+Le PIB réel a diminué de 5,2 % en 2020. Les  estimations mensuelles expérimentales de l’activité économique indiquent des  répercussions économiques relativement graves depuis le début de la pandémie.
+Les ventes provenant des machines agricoles et des  fournitures agricoles en gros ont été moins touchées par les perturbations  économiques attribuables à la COVID-19; en mars, la Saskatchewan a  enregistré la plus forte reprise des ventes de gros des provinces de l’Ouest.  
+En mai, la Saskatchewan affichait la plus forte  reprise de l’emploi chez les jeunes à l’extérieur de la bulle de l’Atlantique,  car la province a évité une troisième vague de restrictions. 
+
+
+
+Tableau de données du graphique 10
+﻿
+
+
+Tableau de données du graphique 10
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 10 Indexed employment level during COVID-19 economic shutdown (April 2020) et Niveau d’emploi indexé pendant le mois de référence actuel (mai 2021), calculées selon indice (février 2020 = 100) unités de mesure (figurant comme en-tête de colonne).
+
+
+
+Indexed employment level during COVID-19 economic shutdown (April 2020)
+Niveau d’emploi indexé pendant le mois de référence actuel (mai 2021)
+
+
+indice (février 2020 = 100)
+
+
+Jeunes : hommes
+76,5
+100,5
+
+
+Jeunes : femmes
+73,3
+103,6
+
+
+Principal groupe d’âge actif : hommes
+90,8
+100,6
+
+
+Principal groupe d’âge actif : femmes
+88,3
+99,2
+
+
+Personnes plus âgées : hommes
+92,3
+91,6
+
+
+Personnes plus âgées : femmes
+83,8
+92,6
+
+
+
+Notes : Jeunes : 15 à 24 ans; principal groupe d’âge actif : 25 à 54 ans; plus âgés : 55 ans et plus.
+Source : Statistique Canada, tableau 14-10-0287-01.
+     
+
+
+
+
+
+
+Tableau de données du graphique 11
+﻿
+
+
+Tableau de données du graphique 11
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 11 Commerce de détail, Fabrication  et Commerce de gros, calculées selon Février 2020 = 100 unités de mesure (figurant comme en-tête de colonne).
+
+
+
+Commerce de détail
+Fabrication
+Commerce de gros
+
+
+Février 2020 = 100
+
+
+Février
+100,0
+100,0
+100,0
+
+
+Mars
+89,3
+93,3
+107,1
+
+
+Avril
+78,0
+79,4
+110,4
+
+
+Mai
+91,7
+83,6
+100,3
+
+
+Juin
+102,6
+84,1
+109,6
+
+
+Juillet
+102,6
+90,9
+109,2
+
+
+Août
+102,9
+91,1
+109,5
+
+
+Septembre
+102,6
+87,7
+104,1
+
+
+Octobre
+103,5
+93,2
+113,4
+
+
+Novembre
+103,2
+93,4
+118,3
+
+
+Décembre
+103,2
+99,6
+114,3
+
+
+Janvier
+105,9
+105,7
+116,6
+
+
+Février
+106,4
+109,3
+121,2
+
+
+Mars
+107,1
+120,9
+121,2
+
+
+
+Note : Le niveau observé avant la COVID-19 a été défini comme étant février 2020.
+Source : Statistique Canada, tableaux 20-10-0008-01, 20-10-0074-01 and 16-10-0048-01.
+     
+
+
+
+
+
+
+Tableau de données du graphique 12
+﻿
+
+
+Tableau de données du graphique 12
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 12 Manitoba, Saskatchewan, Alberta et Colombie-Britannique, calculées selon Février 2020 = 100 unités de mesure (figurant comme en-tête de colonne).
+
+
+
+Manitoba
+Saskatchewan
+Alberta
+Colombie-Britannique
+
+
+Février 2020 = 100
+
+
+Février
+100,0
+100,0
+100,0
+100,0
+
+
+Mars
+85,9
+90,2
+81,1
+84,1
+
+
+Avril
+67,2
+75,0
+63,4
+63,7
+
+
+Mai
+74,2
+73,1
+69,8
+66,6
+
+
+Juin
+86,8
+87,8
+80,9
+79,6
+
+
+Juillet
+87,0
+93,9
+83,9
+88,0
+
+
+Août
+90,8
+93,7
+83,8
+86,7
+
+
+Septembre
+92,1
+99,0
+87,6
+88,2
+
+
+Octobre
+93,9
+97,8
+90,9
+89,9
+
+
+Novembre
+83,7
+95,3
+89,8
+92,7
+
+
+Décembre
+79,8
+91,6
+84,1
+90,5
+
+
+Janvier
+82,1
+93,0
+88,2
+93,3
+
+
+Février
+89,7
+94,6
+90,2
+97,5
+
+
+Mars
+94,6
+97,0
+95,0
+104,2
+
+
+Avril
+95,8
+97,8
+93,0
+96,5
+
+
+Mai
+95,7
+101,8
+94,1
+94,5
+
+
+
+Notes : Le niveau observé avant la COVID-19 a été défini comme étant février 2020, jeunes : 15 à 24 ans.
+Source : Statistique Canada, Tableau 14-10-0287-01.
+     
+
+
+
+
+L’emploi au  Manitoba s’est redressé rapidement par suite de l’assouplissement des  restrictions de santé publique mises en place durant la  deuxième vague
+Avant la COVID-19 :
+
+La croissance du PIB réel a ralenti pour s’établir à  0,5 % en 2019.
+La hausse de la production a été principalement  attribuable aux augmentations enregistrées dans le secteur des services, notamment  dans l’immobilier et les soins de santé.
+La production manufacturière a diminué, alors qu’une  baisse de l’emploi a été enregistrée dans le secteur de la fabrication.
+
+Après la COVID-19 :
+
+Le PIB réel a reculé de 4,8 %  en 2020.
+À la suite des nouvelles restrictions imposées en  réponse à la deuxième vague de COVID-19, l’emploi a fortement diminué  à la fin de 2020. Il s’est depuis redressé par suite de l’assouplissement  des restrictions.
+Les ventes au détail ont fortement fluctué en raison  des restrictions imposées lors de la deuxième vague, mais elles se sont  depuis redressées pour afficher la plus forte reprise des provinces de l’Ouest  en mars.
+Le recul économique au Manitoba se situait  généralement dans la moyenne comparativement à celui des autres provinces.
+
+
+
+Tableau de données du graphique 13
+﻿
+
+
+Tableau de données du graphique 13
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 13 Niveau d’emploi indexé pendant la crise économique liée à la COVID-19 (avril 2020) et Niveau d’emploi indexé pendant le mois de référence actuel (mai 2021), calculées selon indice (février 2020 = 100) unités de mesure (figurant comme en-tête de colonne).
+
+
+
+Niveau d’emploi indexé pendant la crise économique liée à la COVID-19 (avril 2020)
+Niveau d’emploi indexé pendant le mois de référence actuel (mai 2021)
+
+
+indice (février 2020 = 100)
+
+
+Jeunes : hommes
+71,7
+98,1
+
+
+Jeunes : femmes
+62,6
+93,3
+
+
+Principal groupe d’âge actif : hommes
+90,1
+98,9
+
+
+Principal groupe d’âge actif : femmes
+86,9
+97,7
+
+
+Personnes plus âgées : hommes
+92,9
+99,6
+
+
+Personnes plus âgées : femmes
+96,0
+102,5
+
+
+
+Notes : Jeunes : 15 à 24 ans; principal groupe d’âge actif : 25 à 54 ans; plus âgés : 55 ans et plus.
+Source : Statistique Canada, tableau 14-10-0287-01.
+     
+
+
+
+
+
+
+Tableau de données du graphique 14
+﻿
+
+
+Tableau de données du graphique 14
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 14 Commerce de détail, Fabrication  et Commerce de gros, calculées selon Février 2020 = 100 unités de mesure (figurant comme en-tête de colonne).
+
+
+
+Commerce de détail
+Fabrication
+Commerce de gros
+
+
+Février 2020 = 100
+
+
+Février
+100,0
+100,0
+100,0
+
+
+Mars
+90,8
+107,2
+99,0
+
+
+Avril
+72,6
+88,0
+89,8
+
+
+Mai
+93,0
+93,0
+92,9
+
+
+Juin
+103,7
+91,3
+99,1
+
+
+Juillet
+106,0
+101,5
+106,3
+
+
+Août
+103,4
+102,0
+103,4
+
+
+Septembre
+105,4
+105,7
+105,8
+
+
+Octobre
+106,8
+108,0
+101,1
+
+
+Novembre
+99,3
+106,5
+106,4
+
+
+Décembre
+92,4
+110,9
+108,3
+
+
+Janvier
+108,1
+111,7
+107,5
+
+
+Février
+114,3
+109,0
+105,9
+
+
+Mars
+112,9
+113,2
+106,9
+
+
+
+Note : Le niveau observé avant la COVID-19 a été défini comme étant février 2020.
+Source : Statistique Canada, tableaux 20-10-0008-01, 20-10-0074-01 and 16-10-0048-01.
+     
+
+
+
+
+
+
+Tableau de données du graphique 15
+﻿
+
+
+Tableau de données du graphique 15
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 15 Manitoba, Saskatchewan, Alberta et Colombie-Britannique, calculées selon Février 2020 = 100 unités de mesure (figurant comme en-tête de colonne).
+
+
+
+Manitoba
+Saskatchewan
+Alberta
+Colombie-Britannique
+
+
+Février 2020 = 100
+
+
+Février
+100,0
+100,0
+100,0
+100,0
+
+
+Mars
+96,0
+96,2
+95,4
+94,9
+
+
+Avril
+86,4
+87,4
+85,1
+84,5
+
+
+Mai
+88,4
+87,7
+86,3
+86,0
+
+
+Juin
+92,9
+92,4
+90,3
+90,7
+
+
+Juillet
+94,9
+95,2
+93,2
+93,2
+
+
+Août
+95,9
+95,6
+93,7
+93,5
+
+
+Septembre
+98,2
+97,2
+95,3
+95,7
+
+
+Octobre
+98,1
+97,0
+96,4
+97,2
+
+
+Novembre
+95,3
+96,3
+95,8
+98,3
+
+
+Décembre
+94,2
+95,2
+95,2
+98,3
+
+
+Janvier
+95,0
+95,6
+96,1
+98,4
+
+
+Février
+97,4
+96,0
+96,9
+99,4
+
+
+Mars
+98,4
+96,0
+98,5
+100,8
+
+
+Avril
+98,9
+97,6
+98,0
+99,1
+
+
+Mai
+98,4
+98,4
+97,9
+99,0
+
+
+
+Note : Le niveau observé avant la COVID-19 a été défini comme étant février 2020.
+Source : Statistique Canada, tableau 14-10-0287-01.
+     
+
+
+
+
+Ontario :  les mesures de confinement prolongées ont freiné la reprise économique dans les  secteurs durement touchés
+Avant la COVID-19 :
+
+En 2019, le PIB réel a augmenté  de 2,1 % sous l’effet de la hausse de la production dans les  industries de services.
+Une forte croissance a été observée dans le secteur  des services professionnels, scientifiques et techniques, le nombre d’emplois  ayant augmenté de 54 000.
+Le nombre d’emplois dans le secteur des services a  augmenté de plus de 250 000.
+
+Après la COVID-19 :
+
+Le PIB réel a reculé de 5,0 %  en 2020.
+Les niveaux d’emploi dans  les industries des services professionnels,  scientifiques et techniques ont augmenté de plus  de 53 000 depuis février 2020.
+Les intentions d’investissement privé en Ontario se  situent à 95 % des niveaux observés en 2019 avant la pandémie de  COVID-19, ce qui représente le plus haut niveau au pays.
+En février, l’Ontario affichait le plus faible  pourcentage d’entreprises actives par rapport aux niveaux observés avant  la COVID-19 à la suite du deuxième confinement qui a entraîné de  fortes pertes d’emploi. À l’heure actuelle, la province affiche le deuxième  niveau d’emploi le plus bas au pays par rapport aux niveaux d’avant la  pandémie.
+
+
+
+Tableau de données du graphique 16
+﻿
+
+
+Tableau de données du graphique 16
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 16 Niveau d’emploi indexé pendant la crise économique liée à la COVID-19 (avril 2020) et Niveau d’emploi indexé pendant le mois de référence actuel (mai 2021), calculées selon indice (février 2020 = 100) unités de mesure (figurant comme en-tête de colonne).
+
+
+
+Niveau d’emploi indexé pendant la crise économique liée à la COVID-19 (avril 2020)
+Niveau d’emploi indexé pendant le mois de référence actuel (mai 2021)
+
+
+indice (février 2020 = 100)
+
+
+Jeunes : hommes
+70,2
+86,3
+
+
+Jeunes : femmes
+64,4
+77,9
+
+
+Principal groupe d’âge actif : hommes
+89,2
+98,0
+
+
+Principal groupe d’âge actif : femmes
+87,5
+98,6
+
+
+Personnes plus âgées : hommes
+90,4
+99,9
+
+
+Personnes plus âgées : femmes
+86,4
+94,3
+
+
+
+Notes : Jeunes : 15 à 24 ans; principal groupe d’âge actif : 25 à 54 ans; plus âgés : 55 ans et plus.
+Source : Statistique Canada, tableau 14-10-0287-01.
+     
+
+
+
+
+
+
+Tableau de données du graphique 17
+﻿
+
+
+Tableau de données du graphique 17
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 17 Commerce de détail, Fabrication  et Commerce de gros, calculées selon Février 2020 = 100 unités de mesure (figurant comme en-tête de colonne).
+
+
+
+Commerce de détail
+Fabrication
+Commerce de gros
+
+
+Février 2020 = 100
+
+
+Février
+100,0
+100,0
+100,0
+
+
+Mars
+91,9
+86,0
+95,3
+
+
+Avril
+63,6
+53,8
+66,3
+
+
+Mai
+75,5
+64,1
+72,7
+
+
+Juin
+99,9
+90,1
+93,6
+
+
+Juillet
+99,8
+101,2
+98,1
+
+
+Août
+99,4
+96,1
+98,4
+
+
+Septembre
+101,2
+97,0
+99,4
+
+
+Octobre
+101,6
+97,0
+100,8
+
+
+Novembre
+104,8
+95,9
+101,1
+
+
+Décembre
+98,0
+95,1
+101,2
+
+
+Janvier
+96,2
+98,6
+103,5
+
+
+Février
+99,6
+93,8
+102,7
+
+
+Mars
+108,6
+96,5
+103,0
+
+
+
+Note : Le niveau observé avant la COVID-19 a été défini comme étant février 2020.
+Source : Statistique Canada, tableaux 20-10-0008-01, 20-10-0074-01 and 16-10-0048-01.
+     
+
+
+
+
+
+
+Tableau de données du graphique 18
+﻿
+
+
+Tableau de données du graphique 18
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 18 Fabrication de véhicules automobiles, calculées selon dollars unités de mesure (figurant comme en-tête de colonne).
+
+
+
+Fabrication de véhicules automobiles
+
+
+dollars
+
+
+Février
+4 454 977 000
+
+
+Mars
+2 869 437 000
+
+
+Avril
+562 000
+
+
+Mai
+956 264 000
+
+
+Juin
+3 761 624 000
+
+
+Juillet
+5 003 648 000
+
+
+Août
+4 367 404 000
+
+
+Septembre
+4 243 350 000
+
+
+Octobre
+4 261 516 000
+
+
+Novembre
+3 985 447 000
+
+
+Décembre
+4 021 641 000
+
+
+Janvier
+3 627 101 000
+
+
+Février
+3 074 183 000
+
+
+Mars
+3 410 652 000
+
+
+
+Source: Statistique Canada tableau 16-10-0048-01.
+     
+
+
+
+
+Québec :  le deuxième confinement a une incidence sur l’emploi chez les jeunes
+Avant  la COVID-19 :
+
+Le PIB réel a progressé de 2,7 %  en 2019.
+L’augmentation de la production est attribuable aux  hausses enregistrées dans la fabrication et les services.
+L’emploi a progressé de 66 000 en 2019, et  plus des trois quarts de l’augmentation est survenue dans les industries  de services.
+
+Après la COVID-19 :
+
+L’activité économique s’est contractée  de 5,3 % en 2020.
+Les pertes d’emploi enregistrées en avril ont été  relativement importantes comparativement aux autres provinces.
+Le deuxième confinement a eu de fortes  répercussions sur l’emploi chez les jeunes. En mai 2021, l’emploi chez les  jeunes se situait à 90 % des niveaux observés avant la COVID-19. 
+Malgré les importantes baisses observées lors du  premier confinement, les ventes au détail en mars  étaient près de 15 % supérieures aux  niveaux observés avant la COVID-19.
+Le Québec a enregistré la  plus forte augmentation en pourcentage du prix des logements neufs parmi les  provinces depuis le début de la pandémie.
+
+
+
+Tableau de données du graphique 19
+﻿
+
+
+Tableau de données du graphique 19
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 19 Niveau d’emploi indexé pendant la crise économique liée à la COVID-19 (avril 2020) et Niveau d’emploi indexé pendant le mois de référence actuel (mai 2021), calculées selon indice (février 2020=100) unités de mesure (figurant comme en-tête de colonne).
+
+
+
+Niveau d’emploi indexé pendant la crise économique liée à la COVID-19 (avril 2020)
+Niveau d’emploi indexé pendant le mois de référence actuel (mai 2021)
+
+
+indice (février 2020=100)
+
+
+Jeunes : hommes
+65,6
+91,6
+
+
+Jeunes : femmes
+60,4
+88,8
+
+
+Principal groupe d’âge actif : hommes
+84,4
+98,6
+
+
+Principal groupe d’âge actif : femmes
+86,2
+96,2
+
+
+Personnes plus âgées : hommes
+78,4
+102,6
+
+
+Personnes plus âgées : femmes
+81,7
+96,2
+
+
+
+Notes : Jeunes : 15 à 24 ans; principal groupe d’âge actif : 25 à 54 ans; plus âgés : 55 ans et plus.
+Source : Statistique Canada, tableau 14-10-0287-01.
+     
+
+
+
+
+
+
+Tableau de données du graphique 20
+﻿
+
+
+Tableau de données du graphique 20
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 20 Commerce de détail, Fabrication  et Commerce de gros, calculées selon Février 2020 = 100 unités de mesure (figurant comme en-tête de colonne).
+
+
+
+Commerce de détail
+Fabrication
+Commerce de gros
+
+
+Février 2020 = 100
+
+
+Février
+100,0
+100,0
+100,0
+
+
+Mars
+83,1
+94,5
+98,5
+
+
+Avril
+60,4
+71,5
+79,2
+
+
+Mai
+85,3
+79,7
+88,0
+
+
+Juin
+105,5
+92,6
+100,5
+
+
+Juillet
+104,7
+93,6
+101,7
+
+
+Août
+106,5
+95,6
+103,8
+
+
+Septembre
+106,3
+97,3
+107,3
+
+
+Octobre
+108,9
+96,6
+104,4
+
+
+Novembre
+111,0
+98,0
+105,8
+
+
+Décembre
+102,5
+99,2
+104,1
+
+
+Janvier
+93,4
+101,3
+109,7
+
+
+Février
+112,1
+104,2
+108,2
+
+
+Mars
+114,6
+106,6
+117,7
+
+
+
+Note : Le niveau observé avant la COVID-19 a été défini comme étant février 2020.
+Source : Statistique Canada, tableaux 20-10-0008-01, 20-10-0074-01 and 16-10-0048-01.
+     
+
+
+
+
+
+
+Tableau de données du graphique 21
+﻿
+
+
+Tableau de données du graphique 21
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 21 Canada et Québec, calculées selon Février 2020 = 100 unités de mesure (figurant comme en-tête de colonne).
+
+
+
+Canada
+Québec
+
+
+Février 2020 = 100
+
+
+Février
+100,0
+100,0
+
+
+Mars
+84,0
+84,3
+
+
+Avril
+65,7
+63,1
+
+
+Mai
+67,5
+67,7
+
+
+Juin
+77,6
+78,9
+
+
+Juillet
+83,1
+84,7
+
+
+Août
+85,4
+89,6
+
+
+Septembre
+90,4
+93,2
+
+
+Octobre
+90,5
+89,0
+
+
+Novembre
+91,2
+90,5
+
+
+Décembre
+89,6
+87,2
+
+
+Janvier
+85,5
+80,0
+
+
+Février
+89,4
+88,2
+
+
+Mars
+93,8
+89,2
+
+
+Avril
+89,9
+89,1
+
+
+Mai
+88,9
+90,2
+
+
+
+Note : Le niveau observé avant la COVID-19 a été défini comme étant février 2020, jeunes : 15 à 24 ans.
+Source : Statistique Canada, tableau 14-10-0287-01.
+     
+
+
+
+
+Nouveau-Brunswick :  L’emploi  chez les jeunes prend de la vigueur
+Avant la COVID-19 :
+
+Le PIB réel a augmenté de 1,1 %  en 2019.
+L’augmentation de la production a été soutenue par  des hausses enregistrées dans les secteurs des services publics et des soins de  santé.
+Les baisses dans les secteurs du transport, des  travaux de génie civil et de l’extraction des ressources ont atténué la  croissance globale. 
+
+Après la COVID-19 :
+
+Le PIB réel a diminué de 3,7 % en 2020.
+En mars, la province a connu la deuxième plus forte reprise  du secteur de la fabrication du Canada atlantique, sous l’effet du redressement  observé dans le secteur des biens non durables.
+En mai 2021, le  Nouveau-Brunswick était l’une des trois seules provinces où l’emploi chez les  jeunes dépassait les niveaux observés avant la COVID-19, tout juste  derrière Terre-Neuve-et-Labrador.
+
+
+
+Tableau de données du graphique 22
+﻿
+
+
+Tableau de données du graphique 22
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 22 Niveau d’emploi indexé pendant la crise économique liée à la COVID-19 (avril 2020) et Niveau d’emploi indexé pendant le mois de référence actuel (mai 2021), calculées selon indice (Février 2020=100) unités de mesure (figurant comme en-tête de colonne).
+
+
+
+Niveau d’emploi indexé pendant la crise économique liée à la COVID-19 (avril 2020)
+Niveau d’emploi indexé pendant le mois de référence actuel (mai 2021)
+
+
+indice (Février 2020=100)
+
+
+Jeunes : hommes
+74,5
+102,7
+
+
+Jeunes : femmes
+73,3
+108,0
+
+
+Principal groupe d’âge actif : hommes
+89,4
+95,5
+
+
+Principal groupe d’âge actif : femmes
+85,3
+99,7
+
+
+Personnes plus âgées : hommes
+87,9
+101,5
+
+
+Personnes plus âgées : femmes
+92,9
+95,0
+
+
+
+Notes : Jeunes : 15 à 24 ans; principal groupe d’âge actif : 25 à 54 ans; plus âgés : 55 ans et plus.
+Source : Statistique Canada, tableau 14-10-0287-01.
+     
+
+
+
+
+
+
+Tableau de données du graphique 23
+﻿
+
+
+Tableau de données du graphique 23
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 23 Commerce de détail, Fabrication  et Commerce de gros, calculées selon Février 2020 = 100 unités de mesure (figurant comme en-tête de colonne).
+
+
+
+Commerce de détail
+Fabrication
+Commerce de gros
+
+
+Février 2020 = 100
+
+
+Février
+100,0
+100,0
+100,0
+
+
+Mars
+88,8
+79,3
+98,7
+
+
+Avril
+73,3
+64,5
+79,0
+
+
+Mai
+91,3
+66,9
+85,0
+
+
+Juin
+102,5
+80,2
+103,6
+
+
+Juillet
+102,1
+86,8
+100,1
+
+
+Août
+102,2
+85,5
+105,3
+
+
+Septembre
+107,0
+95,4
+102,7
+
+
+Octobre
+102,0
+102,8
+104,9
+
+
+Novembre
+104,9
+107,4
+107,9
+
+
+Décembre
+99,1
+110,7
+105,4
+
+
+Janvier
+106,4
+117,2
+112,2
+
+
+Février
+106,2
+111,9
+112,4
+
+
+Mars
+106,6
+119,7
+112,0
+
+
+
+Note : Le niveau observé avant la COVID-19 a été défini comme étant février 2020.
+Source : Statistique Canada, tableaux 20-10-0008-01, 20-10-0074-01 and 16-10-0048-01.
+     
+
+
+
+
+
+
+Tableau de données du graphique 24
+﻿
+
+
+Tableau de données du graphique 24
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 24 Biens non durables, calculées selon dollars unités de mesure (figurant comme en-tête de colonne).
+
+
+
+Biens non durables
+
+
+dollars
+
+
+Février
+1 149 327 000
+
+
+Mars
+876 332 000
+
+
+Avril
+683 617 000
+
+
+Mai
+702 965 000
+
+
+Juin
+857 193 000
+
+
+Juillet
+940 760 000
+
+
+Août
+896 631 000
+
+
+Septembre
+1 008 058 000
+
+
+Octobre
+1 121 850 000
+
+
+Novembre
+1 186 762 000
+
+
+Décembre
+1 224 745 000
+
+
+Janvier
+1 242 022 000
+
+
+Février
+1 168 062 000
+
+
+Mars
+1 275 101 000
+
+
+
+Source: Statistique Canada tableau 16-10-0048-01.
+     
+
+
+
+
+Nouvelle-Écosse : Les  restrictions imposées à la fin du mois d’avril ont interrompu la reprise de  l’emploi
+Avant la COVID-19 :
+
+L’économie a progressé de 2,5 % en 2019,  ce qui rend compte des hausses généralisées enregistrées dans le secteur des  services, principalement attribuables aux secteurs de l’immobilier et des soins  de santé.
+L’augmentation de la production manufacturière est  attribuable à la construction navale.
+Les hausses de l’emploi sont en grande partie  attribuables aux augmentations observées dans les secteurs des soins de santé  et de la fabrication.
+
+Après la COVID-19 :
+
+L’activité économique a diminué de 3,2 %  en 2020.
+En avril 2021, la Nouvelle-Écosse a enregistré  la plus forte reprise de l’emploi au pays, en raison de la croissance observée  dans les secteurs des services professionnels, scientifiques et techniques et  des services d’enseignement.
+Les restrictions imposées lors de la troisième vague  de COVID-19 à la fin du mois d’avril ont entraîné une baisse de 4,8 % de  l’emploi en mai, la reprise de l’emploi total ayant ralenti pour devenir la  plus faible de toutes les provinces.  
+La province a également  connu la plus forte reprise des ventes liées à la fabrication et au commerce de  gros au Canada en mars.
+
+
+
+Tableau de données du graphique 25
+﻿
+
+
+Tableau de données du graphique 25
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 25 Niveau d’emploi indexé pendant la crise économique liée à la COVID-19 (avril 2020) et Niveau d’emploi indexé pendant le mois de référence actuel (mai 2021), calculées selon indice (Février 2020=100) unités de mesure (figurant comme en-tête de colonne).
+
+
+
+Niveau d’emploi indexé pendant la crise économique liée à la COVID-19 (avril 2020)
+Niveau d’emploi indexé pendant le mois de référence actuel (mai 2021)
+
+
+indice (Février 2020=100)
+
+
+Jeunes : hommes
+63,4
+79,3
+
+
+Jeunes : femmes
+61,7
+85,5
+
+
+Principal groupe d’âge actif : hommes
+88,9
+95,7
+
+
+Principal groupe d’âge actif : femmes
+86,5
+97,5
+
+
+Personnes plus âgées : hommes
+92,4
+105,2
+
+
+Personnes plus âgées : femmes
+82,4
+92,0
+
+
+
+Notes : Jeunes : 15 à 24 ans; principal groupe d’âge actif : 25 à 54 ans; plus âgés : 55 ans et plus.
+Source : Statistique Canada, tableau 14-10-0287-01.
+     
+
+
+
+
+
+
+Tableau de données du graphique 26
+﻿
+
+
+Tableau de données du graphique 26
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 26 Commerce de détail, Fabrication  et Commerce de gros, calculées selon Février 2020 = 100 unités de mesure (figurant comme en-tête de colonne).
+
+
+
+Commerce de détail
+Fabrication
+Commerce de gros
+
+
+Février 2020 = 100
+
+
+Février
+100,0
+100,0
+100,0
+
+
+Mars
+89,1
+103,1
+98,6
+
+
+Avril
+69,2
+93,2
+79,8
+
+
+Mai
+84,8
+85,8
+97,9
+
+
+Juin
+101,1
+102,0
+106,0
+
+
+Juillet
+99,8
+99,9
+110,1
+
+
+Août
+104,1
+100,6
+114,1
+
+
+Septembre
+103,3
+113,1
+109,1
+
+
+Octobre
+106,3
+108,3
+114,0
+
+
+Novembre
+108,1
+101,8
+114,7
+
+
+Décembre
+101,0
+106,5
+119,4
+
+
+Janvier
+110,1
+110,0
+125,1
+
+
+Février
+114,4
+106,3
+127,0
+
+
+Mars
+115,6
+132,2
+131,5
+
+
+
+Note : Le niveau observé avant la COVID-19 a été défini comme étant février 2020.
+Source : Statistique Canada, tableaux 20-10-0008-01, 20-10-0074-01 and 16-10-0048-01.
+     
+
+
+
+
+
+
+Tableau de données du graphique 27
+﻿
+
+
+Tableau de données du graphique 27
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 27 Terre-Neuve-et-Labrador, Île-du-Prince-Édouard, Nouvelle-Écosse et Nouveau-Brunswick, calculées selon Février 2020 = 100 unités de mesure (figurant comme en-tête de colonne).
+
+
+
+Terre-Neuve-et-Labrador
+Île-du-Prince-Édouard
+Nouvelle-Écosse
+Nouveau-Brunswick
+
+
+Février 2020 = 100
+
+
+Février
+100,00000
+100,00000
+100,00000
+100,00000
+
+
+Mars
+97,23461
+96,08802
+94,38972
+95,51177
+
+
+Avril
+84,52275
+85,45232
+83,94004
+86,28900
+
+
+Mai
+87,91258
+88,38631
+85,73876
+90,72250
+
+
+Juin
+89,47368
+90,95355
+91,39186
+97,07170
+
+
+Juillet
+92,41748
+92,29829
+92,50535
+96,63383
+
+
+Août
+94,95986
+94,62103
+93,70450
+96,49699
+
+
+Septembre
+96,96699
+93,03178
+95,93148
+96,96223
+
+
+Octobre
+99,68778
+94,25428
+96,68094
+97,83799
+
+
+Novembre
+101,02587
+95,59902
+99,07923
+98,93268
+
+
+Décembre
+100,26762
+94,74328
+97,40899
+98,71374
+
+
+Janvier
+99,06334
+95,84352
+99,07923
+99,01478
+
+
+Février
+92,37288
+95,23227
+99,61456
+98,30323
+
+
+Mars
+98,34969
+96,82152
+99,95717
+98,41270
+
+
+Avril
+97,81445
+96,45477
+99,76445
+99,53476
+
+
+Mai
+96,87779
+96,82152
+95,01071
+98,79584
+
+
+
+Notes : Le niveau observé avant la COVID-19 a été défini comme étant février 2020.
+Source : Statistique Canada, Tableau 14-10-0287-01.
+     
+
+
+
+
+Île-du-Prince-Édouard :  la plus forte augmentation en pourcentage du prix des logements neufs depuis le  début de la pandémie
+Avant la COVID-19 :
+
+Le PIB réel a augmenté de 5,1 % en 2019,  ce qui représente la plus forte augmentation parmi les provinces.
+La croissance de la production est attribuable aux  augmentations observées dans la construction résidentielle et l’agriculture  ainsi qu’aux hausses généralisées enregistrées dans le secteur des services.
+Le taux d’emploi était de 61,9 % à la fin  de 2019; il s’agit d’un taux 0,2 point de pourcentage plus élevé que  la moyenne nationale.
+
+Après la COVID-19 :
+
+Le PIB réel a diminué de 3,0 % en 2020, ce  qui représente la plus faible baisse parmi les provinces.
+L’Île-du-Prince-Édouard a connu la plus lente  reprise de l’emploi de la bulle de l’Atlantique.
+L’Île-du-Prince-Édouard a connu la plus forte  augmentation en pourcentage du prix des logements neufs des provinces de l’Atlantique  depuis le début de la pandémie. 
+En février 2021, le  nombre d’entreprises actives à l’Île-du-Prince-Édouard avait atteint les  niveaux observés avant la COVID-19, marquant la plus forte reprise nette au  Canada atlantique.
+
+
+
+Tableau de données du graphique 28
+﻿
+
+
+Tableau de données du graphique 28
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 28 Niveau d’emploi indexé pendant la crise économique liée à la COVID-19 (avril 2020) et Niveau d’emploi indexé pendant le mois de référence actuel (mai 2021), calculées selon indice (Février 2020=100) unités de mesure (figurant comme en-tête de colonne).
+
+
+
+Niveau d’emploi indexé pendant la crise économique liée à la COVID-19 (avril 2020)
+Niveau d’emploi indexé pendant le mois de référence actuel (mai 2021)
+
+
+indice (Février 2020=100)
+
+
+Jeunes : hommes
+72,5
+92,8
+
+
+Jeunes : femmes
+67,2
+89,1
+
+
+Principal groupe d’âge actif : hommes
+90,3
+100,8
+
+
+Principal groupe d’âge actif : femmes
+86,1
+96,3
+
+
+Personnes plus âgées : hommes
+95,3
+101,9
+
+
+Personnes plus âgées : femmes
+82,3
+89,6
+
+
+
+Notes : Jeunes : 15 à 24 ans; principal groupe d’âge actif : 25 à 54 ans; plus âgés : 55 ans et plus.
+Source : Statistique Canada, tableau 14-10-0287-01.
+     
+
+
+
+
+
+
+Tableau de données du graphique 29
+﻿
+
+
+Tableau de données du graphique 29
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 29 Commerce de détail, Fabrication  et Commerce de gros, calculées selon Février 2020 = 100 unités de mesure (figurant comme en-tête de colonne).
+
+
+
+Commerce de détail
+Fabrication
+Commerce de gros
+
+
+Février 2020 = 100
+
+
+Février
+100,0
+100,0
+100,0
+
+
+Mars
+87,2
+92,6
+121,8
+
+
+Avril
+73,7
+83,7
+101,3
+
+
+Mai
+90,0
+82,1
+77,3
+
+
+Juin
+103,1
+82,3
+97,8
+
+
+Juillet
+96,2
+75,1
+103,1
+
+
+Août
+102,6
+76,5
+108,9
+
+
+Septembre
+107,5
+86,5
+112,6
+
+
+Octobre
+109,5
+91,5
+107,4
+
+
+Novembre
+112,2
+89,4
+110,7
+
+
+Décembre
+104,1
+93,4
+122,5
+
+
+Janvier
+115,3
+85,1
+134,3
+
+
+Février
+119,8
+88,3
+125,4
+
+
+Mars
+119,5
+93,9
+127,0
+
+
+
+Note : Le niveau observé avant la COVID-19 a été défini comme étant février 2020.
+Source : Statistique Canada, tableaux 20-10-0008-01, 20-10-0074-01 and 16-10-0048-01.
+     
+
+
+
+
+
+
+Tableau de données du graphique 30
+﻿
+
+
+Tableau de données du graphique 30
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 30 Terre-Neuve-et-Labrador, Île-du-Prince-Édouard, Nouvelle-Écosse et Nouveau-Brunswick, calculées selon Février 2020 = 100 unités de mesure (figurant comme en-tête de colonne).
+
+
+
+Terre-Neuve-et-Labrador
+Île-du-Prince-Édouard
+Nouvelle-Écosse
+Nouveau-Brunswick
+
+
+Février 2020 = 100
+
+
+Février
+100,0
+100,0
+100,0
+100,0
+
+
+Mars
+99,8
+100,0
+100,2
+100,3
+
+
+Avril
+99,8
+100,0
+100,3
+100,5
+
+
+Mai
+99,8
+100,6
+100,8
+100,5
+
+
+Juin
+99,8
+100,6
+101,3
+100,5
+
+
+Juillet
+99,5
+100,6
+101,7
+100,5
+
+
+Août
+99,5
+100,6
+103,4
+100,5
+
+
+Septembre
+100,6
+102,6
+104,2
+101,5
+
+
+Octobre
+102,7
+102,6
+105,5
+101,5
+
+
+Novembre
+103,2
+104,4
+106,3
+101,5
+
+
+Décembre
+103,4
+104,4
+106,3
+101,5
+
+
+Janvier
+103,4
+107,8
+106,3
+101,5
+
+
+Février
+103,4
+108,0
+108,8
+102,7
+
+
+Mars
+104,2
+111,7
+109,8
+105,6
+
+
+Avril
+104,8
+112,9
+112,0
+107,3
+
+
+
+Notes : Le niveau observé avant la COVID-19 a été défini comme étant février 2020.
+Source : Statistique Canada, Tableau 18-10-0205-01.
+     
+
+
+
+
+Terre-Neuve-et-Labrador :  l’emploi chez les jeunes se redresse, tandis que la reprise dans la fabrication  et au sein des entreprises actives accuse un retard
+Avant  la COVID-19 :
+
+L’économie de Terre-Neuve-et-Labrador a progressé  de 4,0 % en 2019, en raison de la hausse des activités dans les  secteurs de l’extraction de pétrole et de gaz et de la construction.
+Malgré l’accroissement de la production, le nombre  total d’emplois a diminué en 2019, le taux d’emploi enregistré en fin d’année  étant de 50,0 %.
+
+Après la COVID-19 :
+
+Le PIB  réel a diminué de 5,3 % en 2020.
+La reprise de l’emploi chez les jeunes figurait  parmi les plus fortes au pays.
+La reprise  des ventes des fabricants accuse un retard par rapport au reste du pays, tout  comme le nombre d’entreprises actives.
+
+
+
+Tableau de données du graphique 31
+﻿
+
+
+Tableau de données du graphique 31
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 31 Niveau d’emploi indexé pendant la crise économique liée à la COVID-19 (avril 2020) et Niveau d’emploi indexé pendant le mois de référence actuel (mai 2021), calculées selon indice (février 2020 = 100) unités de mesure (figurant comme en-tête de colonne).
+
+
+
+Niveau d’emploi indexé pendant la crise économique liée à la COVID-19 (avril 2020)
+Niveau d’emploi indexé pendant le mois de référence actuel (mai 2021)
+
+
+indice (février 2020 = 100)
+
+
+Jeunes : hommes
+64,1
+106,1
+
+
+Jeunes : femmes
+88,5
+106,5
+
+
+Principal groupe d’âge actif : hommes
+83,1
+90,0
+
+
+Principal groupe d’âge actif : femmes
+89,7
+93,0
+
+
+Personnes plus âgées : hommes
+84,9
+111,0
+
+
+Personnes plus âgées : femmes
+81,2
+103,6
+
+
+
+Notes : Jeunes : 15 à 24 ans; principal groupe d’âge actif : 25 à 54 ans; plus âgés : 55 ans et plus.
+Source : Statistique Canada, tableau 14-10-0287-01.
+     
+
+
+
+
+
+
+Tableau de données du graphique 32
+﻿
+
+
+Tableau de données du graphique 32
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 32 Commerce de détail, Fabrication  et Commerce de gros, calculées selon Février 2020 = 100 unités de mesure (figurant comme en-tête de colonne).
+
+
+
+Commerce de détail
+Fabrication
+Commerce de gros
+
+
+Février 2020 = 100
+
+
+Février
+100,0
+100,0
+100,0
+
+
+Mars
+98,8
+70,5
+97,7
+
+
+Avril
+74,6
+38,4
+76,2
+
+
+Mai
+92,8
+46,2
+84,3
+
+
+Juin
+109,1
+51,9
+90,5
+
+
+Juillet
+103,8
+58,0
+100,2
+
+
+Août
+103,6
+55,1
+98,1
+
+
+Septembre
+102,7
+58,7
+99,6
+
+
+Octobre
+102,3
+43,5
+102,9
+
+
+Novembre
+111,1
+51,5
+104,3
+
+
+Décembre
+100,8
+67,6
+100,9
+
+
+Janvier
+112,8
+52,8
+104,9
+
+
+Février
+103,5
+68,7
+107,9
+
+
+Mars
+112,3
+69,1
+116,0
+
+
+
+Note : Le niveau observé avant la COVID-19 a été défini comme étant février 2020.
+Source : Statistique Canada, tableaux 20-10-0008-01, 20-10-0074-01 and 16-10-0048-01.
+     
+
+
+
+
+
+
+Tableau de données du graphique 33
+﻿
+
+
+Tableau de données du graphique 33
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 33. Les données sont présentées selon Province (titres de rangée) et Reprise de l’emploi chez les jeunes(figurant comme en-tête de colonne).
+
+
+Province
+Reprise de l’emploi chez les jeunes
+
+
+T.-N.-L.
+105,9
+
+
+N.-B.
+105,2
+
+
+Sask.
+101,8
+
+
+Man.
+95,7
+
+
+C.-B.
+94,5
+
+
+Alb.
+94,1
+
+
+Î.-P.-É.
+91,0
+
+
+Qc
+90,2
+
+
+Canada
+88,9
+
+
+N.-É.
+82,2
+
+
+Ont.
+82,1
+
+
+
+Notes : Indexé à février 2020, les jeunes sont définis comme étant âgés de 15 à 24 ans.
+Source : Statistique Canada, Tableau 14-10-0287-01.
+     
+
+
+
+
+Les territoires : les répercussions de la baisse de l’extraction des  ressources varient en raison de la résilience des entreprises
+Avant la COVID-19 :
+
+Le PIB réel du Yukon a augmenté de 0,7 %  en 2019, car les hausses enregistrées dans l’immobilier et les autres  services ont contrebalancé la baisse de l’activité du commerce de gros. 
+Le PIB réel dans les Territoires du Nord-Ouest a  diminué de 8,1 % en 2019 en raison de fortes baisses  enregistrées dans l’exploitation minière et les travaux de génie civil.  
+L’économie du Nunavut a  progressé pour une quatrième année consécutive; le PIB réel s’est accru  de 6,5 % sous l’effet de la hausse de l’extraction minière.
+
+Après la COVID-19 :
+
+Les entreprises sont demeurées résilientes. En  février 2021, le nombre d’entreprises actives au Yukon et au Nunavut  dépassait les niveaux observés avant la COVID-19, tandis que le nombre  d’entreprises actives dans les Territoires du Nord-Ouest était inférieur  de 1 % par rapport aux niveaux enregistrés en février 2020. 
+Les intentions d’investissement public et privé  pour 2021 (2,5 milliards de dollars) étaient supérieures de  9 % aux niveaux de dépenses enregistrés en 2020, mais elles  affichaient toujours une baisse d’environ 13 % par rapport aux niveaux  observés en 2019 avant la pandémie de COVID-19.
+L’emploi dans le Nord a été  moins touché par les fermetures initiales d’entreprises. En mai 2021, l’emploi dans les Territoires du Nord-Ouest dépassait les  niveaux enregistrés avant la COVID-19. Les niveaux d’emploi au Yukon étaient  inchangés, tandis que les niveaux au Nunavut ont montré des signes de reprise.
+
+
+
+Tableau de données du graphique 34
+﻿
+
+
+Tableau de données du graphique 34
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 34 Variation en pourcentage(figurant comme en-tête de colonne).
+
+
+
+Variation en pourcentage
+
+
+Yukon
+1,0
+
+
+Nunavut
+0,6
+
+
+Territoires du
+   Nord-Ouest
+-1,3
+
+
+Canada
+-2,0
+
+
+
+Source : Statistique Canada, Tableau 33-10-0270-01.
+     
+
+
+
+
+
+
+Tableau de données du graphique 35
+﻿
+
+
+Tableau de données du graphique 35
+   Sommaire du tableau
+      Le tableau montre les résultats de  Tableau de données du graphique 35 Yukon, Territoires du Nord-Ouest et Nunavut, calculées selon Février 2020 = 100 unités de mesure (figurant comme en-tête de colonne).
+
+
+
+Yukon
+Territoires du Nord-Ouest
+Nunavut
+
+
+Février 2020 = 100
+
+
+Février
+100,0
+100,0
+100,0
+
+
+Mars
+99,6
+100,0
+100,8
+
+
+Avril
+97,8
+96,9
+91,4
+
+
+Mai
+93,9
+96,9
+85,9
+
+
+Juin
+92,1
+93,8
+85,9
+
+
+Juillet
+92,1
+93,3
+92,2
+
+
+Août
+91,7
+92,0
+94,5
+
+
+Septembre
+91,7
+92,9
+95,3
+
+
+Octobre
+93,4
+96,0
+96,1
+
+
+Novembre
+96,5
+99,1
+96,1
+
+
+Décembre
+96,5
+100,9
+95,3
+
+
+Janvier
+95,6
+101,8
+94,5
+
+
+Février
+96,5
+102,7
+95,3
+
+
+Mars
+97,4
+104,0
+95,3
+
+
+Avril
+97,8
+104,5
+94,5
+
+
+Mai
+96,5
+106,7
+93,0
+
+
+
+Note : Le niveau observé avant la COVID-19 a été défini comme étant février 2020.
+Source : Statistique Canada, Tableau 14-10-0292-01.
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+Renseignements supplémentaires
+
+
+
+ISSN 2368-6731
+
+
+Note de reconnaissance
+Le succès du système statistique du Canada repose sur un partenariat bien établi entre Statistique Canada et la population, les entreprises, les administrations canadiennes et les autres organismes. Sans cette collaboration et cette bonne volonté, il serait impossible de produire des statistiques précises et actuelles.
+
+
+Normes de service à la clientèle
+Statistique Canada s'engage à fournir à ses clients des services rapides, fiables et courtois. À cet égard, notre organisme s'est doté de normes de service à la clientèle qui doivent être observées par les employés lorsqu'ils offrent des services à la clientèle.
+
+
+Droit d'auteur
+Publication autorisée par le ministre responsable de Statistique Canada
+© Sa Majesté la Reine du chef du Canada, représentée par le ministre de l'Industrie 2021
+Tous droits réservés. L'utilisation de la présente publication est assujettie aux modalités de l'Entente de licence ouverte de Statistique Canada.
+Numéro 11-631-X au catalogue
+Périodicité : occasionnel
+Ottawa
+
+
+
+
+
+
+
+
+Signaler un problème sur cette page
+
+
+
+
+Quelque chose ne fonctionne pas? L'information n'est plus à jour? Vous ne trouvez pas ce que vous cherchez?
+S'il vous plaît contactez-nous et nous informer comment nous pouvons vous aider.
+Avis de confidentialité
+
+
+
+
+
+
+
+
+
+
+Date de modification : 
+
+ 2021-06-23
+
+
+
+
+
+
+
+À propos du gouvernement
+
+Contactez-nous
+Ministères et organismes
+Fonction publique et force militaire
+Nouvelles
+Traités, lois et règlements
+Rapports à l'échelle du gouvernement
+Premier ministre
+Comment le gouvernement fonctionne
+Gouvernement ouvert
+
+
+
+
+
+
+
+À propos de ce site
+
+Médias sociaux
+Applications mobiles
+À propos de Canada.ca
+Avis
+Confidentialité
+
+
+
+Haut de la page 
+
+
+Gouvernement du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

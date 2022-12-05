@@ -16,7 +16,7 @@ def create_textefiles_sites(sites_file):
         for rdx, lien in enumerate(lines):
             creer_textfile_site(lien[:-1], "fileTx" + str(rdx) + ".txt")
 
-def construire_fichiers_texte_from_html(files: str):
+def construire_fichiers_texte_from_html(files: list):
     for idx, file in enumerate(files):
         with open(file, "r", encoding = "UTF-8") as f:
             html_text  = f.read()
@@ -24,7 +24,6 @@ def construire_fichiers_texte_from_html(files: str):
             text = soup.getText()
         with open("fileTx"+str(idx)+".txt", "w", encoding = "UTF-8") as f:
             f.write(text)
-
 
 #Permet d'effacer ce qui est afficher à la console.
 #Taken from https://stackoverflow.com/questions/2084508/clear-terminal-in-python
@@ -85,7 +84,7 @@ def split_lignes(lignes: str, sep: str, determinants: list):
     return result
 
 def construire_dictionnaire_compteur(dictionnaire: dict, lines: list):
-    separateurs = ".,;?!ǀ: #/{}[]_+='()@$\n\t%\"\—«»"
+    separateurs = ".,;?!ǀ: #/{}[]_+='()@$\n\t%\"\«»"
     determinants = construire_liste_determinants_from_file("determinants.txt")
     result = split_lignes(lines, separateurs, determinants)
     for mot in result:
@@ -135,7 +134,9 @@ def affiche_dictionnaire(dictionnaire: dict):
     kys = list(dictionnaire.keys())
     vals = list(dictionnaire.values())
     for i in range(len(kys)):
-        print(f"{kys[i]}: {vals[i]:.4f}", end =" ; ")
+        print(f"{kys[i]}: {vals[i]*100:.4f}%", end =" ; ")
+        if (i + 1) % 8 == 0:
+            print()
 
 def lire_ensemble_fichiers_texte(n: int):
     liste_lignes = []
@@ -151,7 +152,8 @@ def traitement():
     dictionnaire = {}
     liste_lignes: list
     #create_textefiles_sites("sites.txt")
-    liste_lignes = lire_ensemble_fichiers_texte(7)
+    nb_fichiers = int(input("Nombre de fichiers a lire: "))
+    liste_lignes = lire_ensemble_fichiers_texte(nb_fichiers)
     construire_dictionnaire_compteur(dictionnaire, liste_lignes)
     calcul_probabilite_occurence_mots(dictionnaire)
     n = int(input("Entrer combien de termes on doit afficher:" ))
@@ -159,4 +161,3 @@ def traitement():
     affiche_dictionnaire(sous_dic)
         
 traitement()
-
