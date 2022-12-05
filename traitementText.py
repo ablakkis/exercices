@@ -150,19 +150,13 @@ def traitement():
     dictionnaire : dict
     dictionnaire = {}
     liste_lignes: list
-    create_textefiles_sites("sites.txt")
-    liste_lignes = lire_ensemble_fichiers_texte(5)
+    #create_textefiles_sites("sites.txt")
+    liste_lignes = lire_ensemble_fichiers_texte(7)
     construire_dictionnaire_compteur(dictionnaire, liste_lignes)
     calcul_probabilite_occurence_mots(dictionnaire)
     n = int(input("Entrer combien de termes on doit afficher:" ))
     sous_dic = tri_valeurs_cles(dictionnaire, n)
     affiche_dictionnaire(sous_dic)
         
-#traitement()
-site = "https://www.canada.ca/fr/developpement-economique-regions-quebec/nouvelles/2020/05/covid-19--developpement-economique-canada-pour-les-regions-du-quebec-lance-le-fonds-daide-et-de-relance-regionale-pour-soutenir-les-economies-locales.html"
-html_text = requests.get(site).text
-soup = BeautifulSoup(html_text, 'html.parser')
-texte = soup.get_text()
-print(texte)
-with open("fileTx6.txt", "w", encoding = "UTF-8") as f:
-    f.write(texte)
+traitement()
+
