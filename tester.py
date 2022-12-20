@@ -1,33 +1,33 @@
-def somme(liste: list):
-    s = 0
-    for elem in liste:
-        s += elem
-    return s
-def ajout_list_to_list(liste_1: list, liste_2: list, val: int):
-    return liste_1 + liste_2 + [val]
-def calcul_liste_somme(initial_val: int, liste_attente: list, table: list, list_resultat):
+import os, random
+
+#Permet d'effacer ce qui est afficher à la console.
+#Taken from https://stackoverflow.com/questions/2084508/clear-terminal-in-python
+#By user: poke
+
+def cls():
+    os.system('cls' if os.name=='nt' else 'clear')
+
+    
+def calcul_liste_somme(val: int, table: list) -> list:
     if len(table) > 0:
-        if table[0] == initial_val:
-            liste_resultat.append(table[0])
-            
-            return liste
-
-        if somme(liste_attente) + table[0] == initial_val:
-            liste_resultat = ajout_list_to_list(liste_resultat, liste_attente, table[0])
-            return calcul_liste_somme(initial_val,[],table[1:], liste_resultat)
-        elif somme(liste_attente) + table[0] < initial_val:
-            liste_attente.appemd(table[0])
-            return calcul_liste_somme(initial_val, liste_attente, table[1:])
+        if table[0] == val:
+            return [val] + calcul_liste_somme(val, table[1:])
+        elif table[0] < val:
+                val_1 = val - table[0]
+                res = []
+                res = calcul_liste_somme(val_1, table[1:])
+                if len(res) > 0:
+                    return res + [table[1]]
+                return calcul_liste_somme(val_1, table[1:])
         else:
-            return calcul_liste_somme(initial_val, liste_attente, table[1:])
+            return calcul_liste_somme(val, table[1:])
     else:
-        pass
+        return []
 
-def test(liste: list):
-    for i in range(10):
-        liste.append(i)
-
-liste : list
-liste = []
-test(liste)
+            
+cls()           
+table : list
+table = [2, 5, 3, 1, 2, 4, 8, 6]
+liste  = calcul_liste_somme(7, table )
+print("la liste est")
 print(liste)
