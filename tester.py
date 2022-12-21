@@ -7,27 +7,47 @@ import os, random
 def cls():
     os.system('cls' if os.name=='nt' else 'clear')
 
-    
+
 def calcul_liste_somme(val: int, table: list) -> list:
-    if len(table) > 0:
+    if table :
         if table[0] == val:
-            return [val] + calcul_liste_somme(val, table[1:])
+            L1 = [table[0]] 
+            table.remove(table[0])
+            L2 = calcul_liste_somme(val, table[1:])
+            if  L2 :
+                #L2 = add_to_lists(val, L2)
+                return [L1, L2] 
+            else:
+                return L1
         elif table[0] < val:
                 val_1 = val - table[0]
-                res = []
-                res = calcul_liste_somme(val_1, table[1:])
-                if len(res) > 0:
-                    return res + [table[1]]
-                return calcul_liste_somme(val_1, table[1:])
+                L1 = calcul_liste_somme(val_1, table[1:])
+                if L1:
+                    return L1 + [table[0]]
+                else:
+                    L2 = calcul_liste_somme(val, table[1:])
+                    if L2:
+                        return L2+[table[0]]
+                    else:
+                        return []
+                #if L1  and L2 :
+                 #   return [L1+[table[0]], L2+[table[0]]]
+
+                #elif  L1 :
+                 #   return L1 + [table[0]]
+                #elif L2:
+                 #   return L2 + [table[0]]
         else:
-            return calcul_liste_somme(val, table[1:])
+            L1 = calcul_liste_somme(val, table[1:])
+            return L1
     else:
         return []
-
-            
+           
 cls()           
 table : list
-table = [2, 5, 3, 1, 2, 4, 8, 6]
-liste  = calcul_liste_somme(7, table )
+result = []
+table = [7, 7, 4, 4, 3, 7, 1, 2]
+result = calcul_liste_somme(7, table)
+print(table)
 print("la liste est")
-print(liste)
+print(result)
