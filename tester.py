@@ -7,47 +7,30 @@ import os, random
 def cls():
     os.system('cls' if os.name=='nt' else 'clear')
 
+def fill_liste(a: int, liste: list):
+    if a < 10:
+        liste.append(a)
+        fill_liste(a+1, liste)
 
-def calcul_liste_somme(val: int, table: list) -> list:
+
+
+
+def calcul_liste_somme(val: int, table: list, attente: list, result: list[list]):
     if table :
         if table[0] == val:
-            L1 = [table[0]] 
-            table.remove(table[0])
-            L2 = calcul_liste_somme(val, table[1:])
-            if  L2 :
-                #L2 = add_to_lists(val, L2)
-                return [L1, L2] 
-            else:
-                return L1
+            result.append(attente + [table[0]] )
+            calcul_liste_somme(val, table[1:], attente, result) 
         elif table[0] < val:
                 val_1 = val - table[0]
-                L1 = calcul_liste_somme(val_1, table[1:])
-                if L1:
-                    return L1 + [table[0]]
-                else:
-                    L2 = calcul_liste_somme(val, table[1:])
-                    if L2:
-                        return L2+[table[0]]
-                    else:
-                        return []
-                #if L1  and L2 :
-                 #   return [L1+[table[0]], L2+[table[0]]]
-
-                #elif  L1 :
-                 #   return L1 + [table[0]]
-                #elif L2:
-                 #   return L2 + [table[0]]
+                calcul_liste_somme(val_1, table[1:], attente + [table[0]], result)
+                calcul_liste_somme(val, table[1:], attente, result )
         else:
-            L1 = calcul_liste_somme(val, table[1:])
-            return L1
-    else:
-        return []
+            calcul_liste_somme(val, table[1:], attente, result)
            
 cls()           
 table : list
 result = []
-table = [7, 7, 4, 4, 3, 7, 1, 2]
-result = calcul_liste_somme(7, table)
-print(table)
-print("la liste est")
+table = [7, 2, 5, 1, 7, 8, 3, 1, 4]
+calcul_liste_somme(7, table, [], result)
+#fill_liste(0, result)
 print(result)
