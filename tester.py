@@ -26,11 +26,31 @@ def calcul_liste_somme(val: int, table: list, attente: list, result: list[list])
                 calcul_liste_somme(val, table[1:], attente, result )
         else:
             calcul_liste_somme(val, table[1:], attente, result)
-           
+def intersection(l1: list, l2: list):
+    for t in l1:
+        if t in l2:
+            return True
+    return False
+        
+def nettoyer_liste(liste: list):
+    liste_bis = []
+    for i, k in enumerate(liste):
+        j = i + 1
+        fin = False
+        while j < len(liste) and not fin:
+            if intersection(k, liste[j]):
+                fin = True
+            j += 1
+        if not fin:
+            liste_bis.append(k)
+    return liste_bis
+
 cls()           
 table : list
 result = []
-table = [7, 2, 5, 1, 7, 8, 3, 1, 4]
-calcul_liste_somme(7, table, [], result)
-#fill_liste(0, result)
+table = [9, 2, 5, 1, 6, 8, 3, 7, 4, 10]
+calcul_liste_somme(9, table, [], result)
+print(result)
+result = nettoyer_liste(result)
+print("Apres nettoyage")
 print(result)
