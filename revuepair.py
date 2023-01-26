@@ -4,7 +4,6 @@ def ppcm(a, b):
     #En math ppcm*pgcd = a*b
     return a*b//math.gcd(a,b)
 
-
 def addition_fraction(fraction_1,fraction_2):
     #On prend le ppcn des deux dénominateurs comme dénominateur commun
     num1, denum1 = fraction_1
